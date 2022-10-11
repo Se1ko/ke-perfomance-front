@@ -1,30 +1,30 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: http://127.0.0.1:3000/d/9NDMzFfMk/page-metrics-desktop?orgId=1&var-base=sitespeed_io&var-path=default&var-testname=BenchmarkTest&var-group=kazanexpress_ru&var-page=_&var-browser=chrome&var-connectivity=4g&var-function=median&var-resulturl=resulturl&var-screenshottype=screenshottype
 Subject: Page metrics desktop - Dashboards - Grafana
-Date: Tue, 11 Oct 2022 10:24:40 -0000
+Date: Tue, 11 Oct 2022 15:14:00 -0000
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----"
+	boundary="----MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----"
 
 
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: text/html
-Content-ID: <frame-E2CB45035FB4C1058D79BD49F95467EC@mhtml.blink>
+Content-ID: <frame-7D396CB8A5ED7DCC723F98D8D226ECE3@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://127.0.0.1:3000/d/9NDMzFfMk/page-metrics-desktop?orgId=1&var-base=sitespeed_io&var-path=default&var-testname=BenchmarkTest&var-group=kazanexpress_ru&var-page=_&var-browser=chrome&var-connectivity=4g&var-function=median&var-resulturl=resulturl&var-screenshottype=screenshottype
 
 <!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-b34b6fee-f656-4987-8a16-0e1cd5c93843@mhtml.blink" /><l=
-ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-92cc9f7b-a867-448e=
--824e-84554eda3aca@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
-" href=3D"cid:css-405d28d0-f0e1-40d2-a480-b11d7119ebbf@mhtml.blink" /><link=
- rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5082479e-95c5-432c-84=
-7f-86391d8deea7@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
-ref=3D"cid:css-0354be91-f629-4f06-be61-7b07f5d33510@mhtml.blink" /><link re=
-l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-bf8b04cd-60a1-47db-9cb6-=
-c5f66d4b7c37@mhtml.blink" /><meta http-equiv=3D"X-UA-Compatible" content=3D=
+css" href=3D"cid:css-d8d9f652-a06c-4360-b0a7-91cbafc2c10a@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-9524318e-5af6-47be=
+-851c-3ff86abf9035@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-6065c7f5-2d76-4387-a1b6-bdaf3c0c33d5@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-61525e77-0eff-449d-b3=
+80-438ab0e68d52@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-48cb8c9c-b7ae-4b68-a41e-81a14ea8a257@mhtml.blink" /><link re=
+l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-0015560b-4f8f-4f78-af64-=
+1834f1741e9e@mhtml.blink" /><meta http-equiv=3D"X-UA-Compatible" content=3D=
 "IE=3Dedge,chrome=3D1"><meta name=3D"viewport" content=3D"width=3Ddevice-wi=
 dth"><meta name=3D"theme-color" content=3D"#000"><title>Page metrics deskto=
 p - Dashboards - Grafana</title><base href=3D"http://127.0.0.1:3000/"><link=
@@ -67,7 +67,7 @@ low: scroll; margin-right: 0px; margin-bottom: 0px; max-height: calc(100% +=
 0,.7.29,1,1,0,0,0,.71-.29A1,1,0,0,0,17,13.41Z"></path></svg></div></div><di=
 v class=3D"css-1bqnmih"><div class=3D"css-1etxbbi"></div><ul class=3D"css-k=
 mtjxr"><li class=3D"css-1inbft0"><div class=3D"css-1koed79 dropdown"><butto=
-n class=3D"css-1koed79" type=3D"button" id=3D"react-aria7132435922-1" aria-=
+n class=3D"css-1koed79" type=3D"button" id=3D"react-aria9977754924-1" aria-=
 haspopup=3D"true" aria-expanded=3D"false" aria-label=3D"Search dashboards">=
 <span class=3D"css-mcwjf4"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"htt=
 p://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"24" height=3D"24" c=
@@ -75,7 +75,7 @@ lass=3D"css-eyx4do"><path d=3D"M21.71,20.29,18,16.61A9,9,0,1,0,16.61,18l3.6=
 8,3.68a1,1,0,0,0,1.42,0A1,1,0,0,0,21.71,20.29ZM11,18a7,7,0,1,1,7-7A7,7,0,0,=
 1,11,18Z"></path></svg></div></span></button></div></li><li class=3D"css-1b=
 4r4c9"><div class=3D"css-1koed79 dropdown"><button class=3D"css-1koed79" ty=
-pe=3D"button" id=3D"react-aria7132435922-4" aria-haspopup=3D"true" aria-exp=
+pe=3D"button" id=3D"react-aria9977754924-4" aria-haspopup=3D"true" aria-exp=
 anded=3D"false" aria-label=3D"Starred"><span class=3D"css-mcwjf4"><div clas=
 s=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"=
 0 0 24 24" width=3D"24" height=3D"24" class=3D"css-eyx4do"><path d=3D"M22,9=
@@ -86,7 +86,7 @@ s=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"=
 1,0,0,0-.94,0l-3.76,2,.72-4.19a1,1,0,0,0-.29-.89l-3-3,4.21-.61a1,1,0,0,0,.7=
 6-.55L12,5.7l1.88,3.82a1,1,0,0,0,.76.55l4.21.61Z"></path></svg></div></span=
 ></button></div></li><li class=3D"css-1wf2pa6"><div class=3D"css-1uf1299 dr=
-opdown"><a type=3D"button" id=3D"react-aria7132435922-7" aria-haspopup=3D"t=
+opdown"><a type=3D"button" id=3D"react-aria9977754924-7" aria-haspopup=3D"t=
 rue" aria-expanded=3D"false" class=3D"css-1uf1299" aria-label=3D"Dashboards=
 " href=3D"http://127.0.0.1:3000/dashboards"><span class=3D"css-mcwjf4"><div=
  class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBo=
@@ -97,7 +97,7 @@ M10,13H3a1,1,0,0,0-1,1v7a1,1,0,0,0,1,1h7a1,1,0,0,0,1-1V14A1,1,0,0,0,10,13ZM=
 V14A1,1,0,0,0,21,13Zm-1,7H15V15h5ZM10,2H3A1,1,0,0,0,2,3v7a1,1,0,0,0,1,1h7a1=
 ,1,0,0,0,1-1V3A1,1,0,0,0,10,2ZM9,9H4V4H9Z"></path></svg></div></span></a></=
 div></li><li class=3D"css-1b4r4c9"><div class=3D"css-1koed79 dropdown"><a t=
-ype=3D"button" id=3D"react-aria7132435922-10" aria-haspopup=3D"true" aria-e=
+ype=3D"button" id=3D"react-aria9977754924-10" aria-haspopup=3D"true" aria-e=
 xpanded=3D"false" class=3D"css-1koed79" aria-label=3D"Explore" href=3D"http=
 ://127.0.0.1:3000/explore"><span class=3D"css-mcwjf4"><div class=3D"css-wf0=
 8df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" w=
@@ -108,7 +108,7 @@ H19a1,1,0,0,0,0,2h.93A8,8,0,0,1,13,19.93ZM15.14,7.55l-5,2.12a1,1,0,0,0-.52.=
 52l-2.12,5a1,1,0,0,0,.21,1.1,1,1,0,0,0,.7.3.93.93,0,0,0,.4-.09l5-2.12a1,1,0=
 ,0,0,.52-.52l2.12-5a1,1,0,0,0-1.31-1.31Zm-2.49,5.1-2.28,1,1-2.28,2.28-1Z"><=
 /path></svg></div></span></a></div></li><li class=3D"css-1b4r4c9"><div clas=
-s=3D"css-1koed79 dropdown"><a type=3D"button" id=3D"react-aria7132435922-13=
+s=3D"css-1koed79 dropdown"><a type=3D"button" id=3D"react-aria9977754924-13=
 " aria-haspopup=3D"true" aria-expanded=3D"false" class=3D"css-1koed79" aria=
 -label=3D"Alerting" href=3D"http://127.0.0.1:3000/alerting/list"><span clas=
 s=3D"css-mcwjf4"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3=
@@ -119,7 +119,7 @@ ght=3D"24" class=3D"css-eyx4do"><path d=3D"M18,13.18V10a6,6,0,0,0-5-5.91V3a=
 v3H8Zm4,10a2,2,0,0,1-1.72-1h3.44A2,2,0,0,1,12,20Zm6-3H6V16a1,1,0,0,1,1-1H17=
 a1,1,0,0,1,1,1Z"></path></svg></div></span></a></div></li><li class=3D"css-=
 16gt2x7"><div class=3D"css-1koed79 dropdown"><a type=3D"button" id=3D"react=
--aria7132435922-16" aria-haspopup=3D"true" aria-expanded=3D"false" class=3D=
+-aria9977754924-16" aria-haspopup=3D"true" aria-expanded=3D"false" class=3D=
 "css-1koed79" aria-label=3D"Configuration" href=3D"http://127.0.0.1:3000/da=
 tasources"><span class=3D"css-mcwjf4"><div class=3D"css-wf08df-Icon"><svg x=
 mlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"24" heig=
@@ -137,7 +137,7 @@ L8,6.36A2,2,0,0,0,10.82,5.2l.4-1.2h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,1=
 .1,1.1L17.64,8a2,2,0,0,0,1.16,2.79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8=
 Zm0,6a2,2,0,1,1,2-2A2,2,0,0,1,12,14Z"></path></svg></div></span></a></div><=
 /li><li class=3D"css-1b4r4c9"><div class=3D"css-1koed79 dropdown"><a type=
-=3D"button" id=3D"react-aria7132435922-19" aria-haspopup=3D"true" aria-expa=
+=3D"button" id=3D"react-aria9977754924-19" aria-haspopup=3D"true" aria-expa=
 nded=3D"false" class=3D"css-1koed79" aria-label=3D"Server admin" href=3D"ht=
 tp://127.0.0.1:3000/admin/users"><span class=3D"css-mcwjf4"><div class=3D"c=
 ss-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24=
@@ -148,13 +148,13 @@ a1,1,0,0,0-.84-.2,8,8,0,0,1-6.22-1.27,1,1,0,0,0-1.14,0A8,8,0,0,1,5.21,3.45a=
 7,0,0,1-2.93,5.7L12,19.77,8.93,17.58A7,7,0,0,1,6,11.88V5.58a10,10,0,0,0,6-1=
 .39,10,10,0,0,0,6,1.39Z"></path></svg></div></span></a></div></li><li class=
 =3D"css-1b4r4c9"><div class=3D"css-1koed79 dropdown"><a type=3D"button" id=
-=3D"react-aria7132435922-22" aria-haspopup=3D"true" aria-expanded=3D"false"=
+=3D"react-aria9977754924-22" aria-haspopup=3D"true" aria-expanded=3D"false"=
  class=3D"css-1koed79" aria-label=3D"sitespeedio" href=3D"http://127.0.0.1:=
 3000/profile"><span class=3D"css-mcwjf4"><img src=3D"http://127.0.0.1:3000/=
 avatar/ab5a6a090b5651afdf9ce92dcc586e3c" alt=3D"sitespeedio logo"></span></=
 a></div></li><li class=3D"css-1b4r4c9"><div class=3D"css-1koed79 dropdown">=
-<a href=3D"http://127.0.0.1:3000/#" type=3D"button" id=3D"react-aria7132435=
-922-25" aria-haspopup=3D"true" aria-expanded=3D"false" class=3D"css-1koed79=
+<a href=3D"http://127.0.0.1:3000/#" type=3D"button" id=3D"react-aria9977754=
+924-25" aria-haspopup=3D"true" aria-expanded=3D"false" class=3D"css-1koed79=
 " aria-label=3D"Help"><span class=3D"css-mcwjf4"><div class=3D"css-wf08df-I=
 con"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=
 =3D"24" height=3D"24" class=3D"css-eyx4do"><path d=3D"M11.29,15.29a1.58,1.5=
@@ -299,8 +299,8 @@ ass=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=
 1,20,12a1,1,0,0,0,2,0A10,10,0,0,0,12,2Z"></path></svg></div></button><div c=
 lass=3D"button-group css-1viikh2"><button class=3D"toolbar-button css-fbg4c=
 g-toolbar-button" aria-label=3D"Auto refresh turned off. Choose refresh tim=
-e interval" aria-expanded=3D"false" type=3D"button" id=3D"react-aria7132435=
-922-29" aria-haspopup=3D"true" data-testid=3D"data-testid RefreshPicker int=
+e interval" aria-expanded=3D"false" type=3D"button" id=3D"react-aria9977754=
+924-29" aria-haspopup=3D"true" data-testid=3D"data-testid RefreshPicker int=
 erval button"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.or=
 g/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-e=
 yx4do"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.=
@@ -427,7 +427,7 @@ v></div><div class=3D"css-onatk7"></div></div></div><div class=3D"gf-form g=
 f-form--grow"></div></div></section><div style=3D"flex: 1 1 auto; position:=
  relative;"><div style=3D"overflow: visible; width: 0px;"><div style=3D"wid=
 th: 1351px; height: 100%;"><div class=3D"react-grid-layout" style=3D"height=
-: 1132px;"><div class=3D"react-grid-item react-resizable-hide react-resizab=
+: 2500px;"><div class=3D"react-grid-item react-resizable-hide react-resizab=
 le" data-panelid=3D"84" style=3D"top: 0px; left: 0px; width: 1351px; height=
 : 30px; position: absolute;"><div class=3D"dashboard-row" data-testid=3D"da=
 shboard-row-container"><a class=3D"dashboard-row__title pointer" data-testi=
@@ -484,11 +484,11 @@ ms: center; flex-direction: row;"><div style=3D"display: flex; align-items:=
 iv style=3D"font-size: 22.5px; line-height: 1.2; color: rgb(247, 248, 250);=
 ">First Paint</div><div style=3D"font-size: 55.6665px; font-weight: 500; li=
 ne-height: 1.2; position: relative; z-index: 1; text-align: center; color: =
-rgb(247, 248, 250);"><div><span>809</span><span style=3D"font-size: 33.3999=
+rgb(247, 248, 250);"><div><span>609</span><span style=3D"font-size: 33.3999=
 px;"> ms</span></div></div></div></div></div></div></div></section></div><s=
 pan class=3D"react-resizable-handle react-resizable-handle-se"></span></div=
 ><div class=3D"react-grid-item react-draggable react-resizable" data-paneli=
-d=3D"274" style=3D"top: 38px; left: 227px; width: 219px; height: 182px; pos=
+d=3D"191" style=3D"top: 38px; left: 227px; width: 219px; height: 182px; pos=
 ition: absolute;"><div id=3D"5" style=3D"width: 219px; height: 182px;"><sec=
 tion class=3D"panel-container panel-container--no-title" aria-label=3D" pan=
 el"><div class=3D"panel-header grid-drag-handle"><header data-testid=3D"dat=
@@ -506,65 +506,270 @@ rder-radius: 3px; position: relative; display: flex; background: linear-gra=
 dient(120deg, rgb(194, 168, 21), rgb(232, 149, 34)); align-items: center; f=
 lex-direction: row;"><div style=3D"display: flex; align-items: center; just=
 ify-content: center; flex-grow: 1; flex-direction: column;"><div style=3D"f=
-ont-size: 22.5px; line-height: 1.2; color: rgb(32, 34, 38);">FirstVisualCha=
-nge</div><div style=3D"font-size: 67.6293px; font-weight: 500; line-height:=
- 1.2; position: relative; z-index: 1; text-align: center; color: rgb(32, 34=
-, 38);"><div><span>2.22</span><span style=3D"font-size: 40.5776px;"> s</spa=
-n></div></div></div></div></div></div></div></section></div><span class=3D"=
-react-resizable-handle react-resizable-handle-se"></span></div><div class=
-=3D"react-grid-item react-draggable react-resizable" data-panelid=3D"275" s=
-tyle=3D"top: 38px; left: 453px; width: 219px; height: 182px; position: abso=
-lute;"><div id=3D"6" style=3D"width: 219px; height: 182px;"><section class=
-=3D"panel-container panel-container--no-title" aria-label=3D" panel"><div c=
-lass=3D"panel-header grid-drag-handle"><header data-testid=3D"data-testid P=
-anel header " class=3D"panel-title-container"><div><div class=3D"panel-titl=
-e"><h2 class=3D"css-1m35bcr"></h2><div data-testid=3D"panel-dropdown"><div =
-class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=
-=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-to=
-ggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.4=
-1,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z=
-"></path></svg></div></div></div></div></header></div><div class=3D"panel-c=
-ontent panel-content--no-padding"><div style=3D"position: relative;"><div s=
-tyle=3D"position: absolute; left: 0px; top: 0px; width: 217px; height: 180p=
-x;"><div style=3D"width: 217px; height: 180px; padding: 12px; border-radius=
-: 3px; position: relative; display: flex; background: linear-gradient(120de=
-g, rgb(223, 20, 16), rgb(240, 49, 96)); align-items: center; flex-direction=
-: row;"><div style=3D"display: flex; align-items: center; justify-content: =
-center; flex-grow: 1; flex-direction: column;"><div style=3D"font-size: 22.=
-5px; line-height: 1.2; color: rgb(247, 248, 250);">LastVisualChange</div><d=
-iv style=3D"font-size: 67.6293px; font-weight: 500; line-height: 1.2; posit=
-ion: relative; z-index: 1; text-align: center; color: rgb(247, 248, 250);">=
-<div><span>13.2</span><span style=3D"font-size: 40.5776px;"> s</span></div>=
-</div></div></div></div></div></div></section></div><span class=3D"react-re=
-sizable-handle react-resizable-handle-se"></span></div><div class=3D"react-=
-grid-item react-draggable react-resizable" data-panelid=3D"276" style=3D"to=
-p: 38px; left: 680px; width: 219px; height: 182px; position: absolute;"><di=
-v id=3D"7" style=3D"width: 219px; height: 182px;"><section class=3D"panel-c=
-ontainer panel-container--no-title" aria-label=3D" panel"><div class=3D"pan=
-el-header grid-drag-handle"><header data-testid=3D"data-testid Panel header=
- " class=3D"panel-title-container"><div><div class=3D"panel-title"><h2 clas=
-s=3D"css-1m35bcr"></h2><div data-testid=3D"panel-dropdown"><div class=3D"cs=
-s-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 =
-24" width=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path=
- d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0=
-,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></=
-svg></div></div></div></div></header></div><div class=3D"panel-content pane=
-l-content--no-padding"><div style=3D"position: relative;"><div style=3D"pos=
-ition: absolute; left: 0px; top: 0px; width: 217px; height: 180px;"><div st=
-yle=3D"width: 217px; height: 180px; padding: 12px; border-radius: 3px; posi=
-tion: relative; display: flex; background: linear-gradient(120deg, rgb(223,=
- 20, 16), rgb(240, 49, 96)); align-items: center; flex-direction: row;"><di=
-v style=3D"display: flex; align-items: center; justify-content: center; fle=
-x-grow: 1; flex-direction: column;"><div style=3D"font-size: 22.5px; line-h=
-eight: 1.2; color: rgb(247, 248, 250);">SpeedIndex</div><div style=3D"font-=
-size: 67.6293px; font-weight: 500; line-height: 1.2; position: relative; z-=
-index: 1; text-align: center; color: rgb(247, 248, 250);"><div><span>8.41</=
-span><span style=3D"font-size: 40.5776px;"> s</span></div></div></div></div=
-></div></div></div></section></div><span class=3D"react-resizable-handle re=
-act-resizable-handle-se"></span></div><div class=3D"react-grid-item react-d=
-raggable react-resizable" data-panelid=3D"278" style=3D"top: 38px; left: 90=
-6px; width: 219px; height: 182px; position: absolute;"><div id=3D"8" style=
-=3D"width: 219px; height: 182px;"><section class=3D"panel-container panel-c=
+ont-size: 20.202px; line-height: 1.2; color: rgb(32, 34, 38);">First Conten=
+tful Paint</div><div style=3D"font-size: 67.6293px; font-weight: 500; line-=
+height: 1.2; position: relative; z-index: 1; text-align: center; color: rgb=
+(32, 34, 38);"><div><span>2.19</span><span style=3D"font-size: 40.5776px;">=
+ s</span></div></div></div></div></div></div></div></section></div><span cl=
+ass=3D"react-resizable-handle react-resizable-handle-se"></span></div><div =
+class=3D"react-grid-item react-draggable react-resizable" data-panelid=3D"2=
+76" style=3D"top: 38px; left: 453px; width: 219px; height: 182px; position:=
+ absolute;"><div id=3D"6" style=3D"width: 219px; height: 182px;"><section c=
+lass=3D"panel-container panel-container--no-title" aria-label=3D" panel"><d=
+iv class=3D"panel-header grid-drag-handle"><header data-testid=3D"data-test=
+id Panel header " class=3D"panel-title-container"><div><div class=3D"panel-=
+title"><h2 class=3D"css-1m35bcr"></h2><div data-testid=3D"panel-dropdown"><=
+div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" vie=
+wBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do panel-men=
+u-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0=
+-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9=
+.17Z"></path></svg></div></div></div></div></header></div><div class=3D"pan=
+el-content panel-content--no-padding"><div style=3D"position: relative;"><d=
+iv style=3D"position: absolute; left: 0px; top: 0px; width: 217px; height: =
+180px;"><div style=3D"width: 217px; height: 180px; padding: 12px; border-ra=
+dius: 3px; position: relative; display: flex; background: linear-gradient(1=
+20deg, rgb(223, 20, 16), rgb(240, 49, 96)); align-items: center; flex-direc=
+tion: row;"><div style=3D"display: flex; align-items: center; justify-conte=
+nt: center; flex-grow: 1; flex-direction: column;"><div style=3D"font-size:=
+ 22.5px; line-height: 1.2; color: rgb(247, 248, 250);">SpeedIndex</div><div=
+ style=3D"font-size: 67.6293px; font-weight: 500; line-height: 1.2; positio=
+n: relative; z-index: 1; text-align: center; color: rgb(247, 248, 250);"><d=
+iv><span>6.56</span><span style=3D"font-size: 40.5776px;"> s</span></div></=
+div></div></div></div></div></div></section></div><span class=3D"react-resi=
+zable-handle react-resizable-handle-se"></span></div><div class=3D"react-gr=
+id-item react-draggable react-resizable" data-panelid=3D"194" style=3D"top:=
+ 38px; left: 680px; width: 219px; height: 182px; position: absolute;"><div =
+id=3D"7" style=3D"width: 219px; height: 182px;"><section class=3D"panel-con=
+tainer panel-container--no-title" aria-label=3D" panel"><div class=3D"panel=
+-header grid-drag-handle"><header data-testid=3D"data-testid Panel header "=
+ class=3D"panel-title-container"><div><div class=3D"panel-title"><h2 class=
+=3D"css-1m35bcr"></h2><div data-testid=3D"panel-dropdown"><div class=3D"css=
+-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 2=
+4" width=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path =
+d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,=
+0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></s=
+vg></div></div></div></div></header></div><div class=3D"panel-content panel=
+-content--no-padding"><div style=3D"position: relative;"><div style=3D"posi=
+tion: absolute; left: 0px; top: 0px; width: 217px; height: 180px;"><div sty=
+le=3D"width: 217px; height: 180px; padding: 12px; border-radius: 3px; posit=
+ion: relative; display: flex; background: linear-gradient(120deg, rgb(223, =
+20, 16), rgb(240, 49, 96)); align-items: center; flex-direction: row;"><div=
+ style=3D"display: flex; align-items: center; justify-content: center; flex=
+-grow: 1; flex-direction: column;"><div style=3D"font-size: 21.5961px; line=
+-height: 1.2; color: rgb(247, 248, 250);">Total Blocking Time</div><div sty=
+le=3D"font-size: 55.6665px; font-weight: 500; line-height: 1.2; position: r=
+elative; z-index: 1; text-align: center; color: rgb(247, 248, 250);"><div><=
+span>946</span><span style=3D"font-size: 33.3999px;"> ms</span></div></div>=
+</div></div></div></div></div></section></div><span class=3D"react-resizabl=
+e-handle react-resizable-handle-se"></span></div><div class=3D"react-grid-i=
+tem react-draggable react-resizable" data-panelid=3D"278" style=3D"top: 38p=
+x; left: 906px; width: 219px; height: 182px; position: absolute;"><div id=
+=3D"8" style=3D"width: 219px; height: 182px;"><section class=3D"panel-conta=
+iner panel-container--no-title" aria-label=3D" panel"><div class=3D"panel-h=
+eader grid-drag-handle"><header data-testid=3D"data-testid Panel header " c=
+lass=3D"panel-title-container"><div><div class=3D"panel-title"><h2 class=3D=
+"css-1m35bcr"></h2><div data-testid=3D"panel-dropdown"><div class=3D"css-wf=
+08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" =
+width=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path d=
+=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0=
+,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></sv=
+g></div></div></div></div></header></div><div class=3D"panel-content panel-=
+content--no-padding"><div style=3D"position: relative;"><div style=3D"posit=
+ion: absolute; left: 0px; top: 0px; width: 217px; height: 180px;"><div styl=
+e=3D"width: 217px; height: 180px; padding: 12px; border-radius: 3px; positi=
+on: relative; display: flex; background: linear-gradient(120deg, rgb(223, 2=
+0, 16), rgb(240, 49, 96)); align-items: center; flex-direction: row;"><div =
+style=3D"display: flex; align-items: center; justify-content: center; flex-=
+grow: 1; flex-direction: column;"><div style=3D"font-size: 22.5px; line-hei=
+ght: 1.2; color: rgb(247, 248, 250);">Load Event End</div><div style=3D"fon=
+t-size: 67.6293px; font-weight: 500; line-height: 1.2; position: relative; =
+z-index: 1; text-align: center; color: rgb(247, 248, 250);"><div><span>5.30=
+</span><span style=3D"font-size: 40.5776px;"> s</span></div></div></div></d=
+iv></div></div></div></section></div><span class=3D"react-resizable-handle =
+react-resizable-handle-se"></span></div><div class=3D"react-grid-item react=
+-draggable react-resizable" data-panelid=3D"280" style=3D"top: 38px; left: =
+1133px; width: 219px; height: 182px; position: absolute;"><div id=3D"9" sty=
+le=3D"width: 219px; height: 182px;"><section class=3D"panel-container panel=
+-container--no-title" aria-label=3D" panel"><div class=3D"panel-header grid=
+-drag-handle"><header data-testid=3D"data-testid Panel header " class=3D"pa=
+nel-title-container"><div><div class=3D"panel-title"><h2 class=3D"css-1m35b=
+cr"></h2><div data-testid=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"=
+><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"1=
+6" height=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path d=3D"M17,9.17=
+a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24=
+,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></di=
+v></div></div></header></div><div class=3D"panel-content panel-content--no-=
+padding"><div style=3D"position: relative;"><div style=3D"position: absolut=
+e; left: 0px; top: 0px; width: 217px; height: 180px;"><div style=3D"width: =
+217px; height: 180px; padding: 12px; border-radius: 3px; position: relative=
+; display: flex; background: linear-gradient(120deg, rgb(223, 20, 16), rgb(=
+240, 49, 96)); align-items: center; flex-direction: row;"><div style=3D"dis=
+play: flex; align-items: center; justify-content: center; flex-grow: 1; fle=
+x-direction: column;"><div style=3D"font-size: 22.5px; line-height: 1.2; co=
+lor: rgb(247, 248, 250);">Fully Loaded</div><div style=3D"font-size: 67.629=
+3px; font-weight: 500; line-height: 1.2; position: relative; z-index: 1; te=
+xt-align: center; color: rgb(247, 248, 250);"><div><span>14.3</span><span s=
+tyle=3D"font-size: 40.5776px;"> s</span></div></div></div></div></div></div=
+></div></section></div><span class=3D"react-resizable-handle react-resizabl=
+e-handle-se"></span></div><div class=3D"react-grid-item react-draggable rea=
+ct-resizable" data-panelid=3D"190" style=3D"top: 228px; left: 0px; width: 6=
+72px; height: 30px; position: absolute;"><div id=3D"10" style=3D"width: 672=
+px; height: 30px;"><section class=3D"panel-container" aria-label=3D"Google =
+Web Vitals panel"><div class=3D"panel-header grid-drag-handle"><header data=
+-testid=3D"data-testid Panel header Google Web Vitals" class=3D"panel-title=
+-container"><div><div class=3D"panel-title"><h2 class=3D"css-1m35bcr">Googl=
+e Web Vitals</h2><div data-testid=3D"panel-dropdown"><div class=3D"css-wf08=
+df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" wi=
+dth=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path d=3D"=
+M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1=
+.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></=
+div></div></div></div></header></div><div class=3D"panel-content"><div clas=
+s=3D"css-12b7m5k" style=3D"position: relative; overflow: hidden; width: 100=
+%; height: auto; min-height: 100%; max-height: 100%;"><div class=3D"scrollb=
+ar-view" style=3D"position: relative; overflow: scroll; margin-right: 0px; =
+margin-bottom: 0px; min-height: calc(100% + 0px); max-height: calc(100% + 0=
+px);"><div class=3D"markdown-html css-fb3dw2" data-testid=3D"TextPanel-conv=
+erted-content"></div></div><div class=3D"track-horizontal" style=3D"positio=
+n: absolute; height: 6px; display: none;"><div class=3D"thumb-horizontal" s=
+tyle=3D"position: relative; display: block; height: 100%;"></div></div><div=
+ class=3D"track-vertical" style=3D"position: absolute; width: 6px; display:=
+ none;"><div class=3D"thumb-vertical" style=3D"position: relative; display:=
+ block; width: 100%;"></div></div></div></div></section></div><span class=
+=3D"react-resizable-handle react-resizable-handle-se"></span></div><div cla=
+ss=3D"react-grid-item react-draggable react-resizable" data-panelid=3D"246"=
+ style=3D"top: 228px; left: 680px; width: 672px; height: 562px; position: a=
+bsolute;"><div id=3D"11" style=3D"width: 672px; height: 562px;"><section cl=
+ass=3D"panel-container" aria-label=3D"Content size per type panel"><div cla=
+ss=3D"panel-header grid-drag-handle"><header data-testid=3D"data-testid Pan=
+el header Content size per type" class=3D"panel-title-container"><div><div =
+class=3D"panel-title"><h2 class=3D"css-1m35bcr">Content size per type</h2><=
+div data-testid=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"><svg xmln=
+s=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=
+=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,=
+0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1=
+,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></div></div><=
+/div></header></div><div class=3D"panel-content"><div style=3D"display: fle=
+x; width: 654px; height: 512px; flex-direction: row;"><div tabindex=3D"0" c=
+lass=3D"css-157c53p"><div class=3D"css-nx8q14"><svg width=3D"509.203125" he=
+ight=3D"509.203125"><g class=3D"visx-group" transform=3D"translate(254.6015=
+625, 254.6015625)"><defs><radialGradient id=3D"PieChart0-f2495c" gradientUn=
+its=3D"userSpaceOnUse" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offse=
+t=3D"0" stop-color=3D"rgb(199, 14, 23)" stop-opacity=3D"1"></stop><stop off=
+set=3D"1" stop-color=3D"rgb(239, 25, 64)" stop-opacity=3D"1"></stop></radia=
+lGradient></defs><defs><radialGradient id=3D"PieChart0-ff780a" gradientUnit=
+s=3D"userSpaceOnUse" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=
+=3D"0" stop-color=3D"rgb(163, 84, 0)" stop-opacity=3D"1"></stop><stop offse=
+t=3D"1" stop-color=3D"rgb(214, 82, 0)" stop-opacity=3D"1"></stop></radialGr=
+adient></defs><defs><radialGradient id=3D"PieChart0-5794f2" gradientUnits=
+=3D"userSpaceOnUse" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=
+=3D"0" stop-color=3D"rgb(16, 80, 211)" stop-opacity=3D"1"></stop><stop offs=
+et=3D"1" stop-color=3D"rgb(40, 131, 238)" stop-opacity=3D"1"></stop></radia=
+lGradient></defs><defs><radialGradient id=3D"PieChart0-f2cc0c" gradientUnit=
+s=3D"userSpaceOnUse" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=
+=3D"0" stop-color=3D"rgb(145, 131, 7)" stop-opacity=3D"1"></stop><stop offs=
+et=3D"1" stop-color=3D"rgb(193, 151, 10)" stop-opacity=3D"1"></stop></radia=
+lGradient></defs><defs><radialGradient id=3D"PieChart0-73bf69" gradientUnit=
+s=3D"userSpaceOnUse" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=
+=3D"0" stop-color=3D"rgb(62, 136, 58)" stop-opacity=3D"1"></stop><stop offs=
+et=3D"1" stop-color=3D"rgb(91, 172, 73)" stop-opacity=3D"1"></stop></radial=
+Gradient></defs><defs><radialGradient id=3D"PieChart0-8ab8ff" gradientUnits=
+=3D"userSpaceOnUse" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=
+=3D"0" stop-color=3D"rgb(36, 107, 255)" stop-opacity=3D"1"></stop><stop off=
+set=3D"1" stop-color=3D"rgb(87, 164, 255)" stop-opacity=3D"1"></stop></radi=
+alGradient></defs><defs><radialGradient id=3D"PieChart0-b877d9" gradientUni=
+ts=3D"userSpaceOnUse" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=
+=3D"0" stop-color=3D"rgb(147, 51, 183)" stop-opacity=3D"1"></stop><stop off=
+set=3D"1" stop-color=3D"rgb(155, 79, 206)" stop-opacity=3D"1"></stop></radi=
+alGradient></defs><defs><radialGradient id=3D"PieChart0-705da0" gradientUni=
+ts=3D"userSpaceOnUse" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=
+=3D"0" stop-color=3D"rgb(69, 56, 95)" stop-opacity=3D"1"></stop><stop offse=
+t=3D"1" stop-color=3D"rgb(86, 74, 128)" stop-opacity=3D"1"></stop></radialG=
+radient></defs><g class=3D"css-13k7x98" aria-label=3D"Pie Chart Slice"><pat=
+h d=3D"M0.588955540710741,-235.581725487807A3,3,0,0,1,3.6346455166999667,-2=
+38.5738774036448A238.6015625,238.6015625,0,1,1,-189.47663107161827,145.0148=
+6787633624A3,3,0,0,1,-188.8871186563333,140.78619484221338L0,0Z" fill=3D"ur=
+l(#PieChart0-f2495c)" stroke=3D"#181b1f" stroke-width=3D"1"></path></g><g c=
+lass=3D"css-13k7x98" aria-label=3D"Pie Chart Slice"><path d=3D"M-189.588685=
+613438,139.84000336030596A3,3,0,0,1,-193.80624004724373,139.1755975241046A2=
+38.6015625,238.6015625,0,0,1,-198.98826141409876,-131.66008296684194A3,3,0,=
+0,1,-194.79920929994006,-132.48533620200976L0,0Z" fill=3D"url(#PieChart0-ff=
+780a)" stroke=3D"#181b1f" stroke-width=3D"1"></path></g><g class=3D"css-13k=
+7x98" aria-label=3D"Pie Chart Slice"><path d=3D"M-194.13435039399437,-133.4=
+5767212694525A3,3,0,0,1,-194.88519034218507,-137.66069959408057A238.6015625=
+,238.6015625,0,0,1,-54.52015329582059,-232.2891700274501A3,3,0,0,1,-50.9055=
+3259229409,-230.0167885262645L0,0Z" fill=3D"url(#PieChart0-5794f2)" stroke=
+=3D"#181b1f" stroke-width=3D"1"></path></g><g class=3D"css-13k7x98" aria-la=
+bel=3D"Pie Chart Slice"><path d=3D"M-49.75481712384129,-230.26843992482887A=
+3,3,0,0,1,-47.41869566565471,-233.84219663869357A238.6015625,238.6015625,0,=
+0,1,-15.828053304021527,-238.07599281751712A3,3,0,0,1,-12.633359777702958,-=
+235.2434791299613L0,0Z" fill=3D"url(#PieChart0-f2cc0c)" stroke=3D"#181b1f" =
+stroke-width=3D"1"></path></g><g class=3D"css-13k7x98" aria-label=3D"Pie Ch=
+art Slice"><path d=3D"M-11.481307215595379,-235.8031452395361A2.50577132579=
+5036,2.505771325795036,0,1,1,-6.473671807904849,-235.99371875869952L0,0Z" f=
+ill=3D"url(#PieChart0-73bf69)" stroke=3D"#181b1f" stroke-width=3D"1"></path=
+></g><g class=3D"css-13k7x98" aria-label=3D"Pie Chart Slice"><path d=3D"M-5=
+.323656947927596,-237.3620513300738A1.1769011205062951,1.1769011205062951,0=
+,1,1,-2.9702427082383154,-237.40316424423233L0,0Z" fill=3D"url(#PieChart0-8=
+ab8ff)" stroke=3D"#181b1f" stroke-width=3D"1"></path></g><g class=3D"css-13=
+k7x98" aria-label=3D"Pie Chart Slice"><path d=3D"M-1.792046303162551,-238.5=
+9355215433928A0.0012805194084329365,0.0012805194084329365,0,1,1,-1.78948533=
+64777212,-238.5935713756945L0,0Z" fill=3D"url(#PieChart0-b877d9)" stroke=3D=
+"#181b1f" stroke-width=3D"1"></path></g><g class=3D"css-13k7x98" aria-label=
+=3D"Pie Chart Slice"><path d=3D"M-0.5965032848918836,-238.60081687050553L0,=
+0Z" fill=3D"url(#PieChart0-705da0)" stroke=3D"#181b1f" stroke-width=3D"1"><=
+/path></g></g></svg></div></div><div style=3D"max-width: 60%;"><div class=
+=3D"css-12b7m5k" style=3D"position: relative; overflow: hidden; width: 100%=
+; height: auto; min-height: 0px; max-height: 100%;"><div class=3D"scrollbar=
+-view" style=3D"position: relative; overflow: scroll; margin-right: 0px; ma=
+rgin-bottom: 0px; max-height: calc(100% + 0px);"><table class=3D"css-gncwal=
+"><thead><tr><th></th><th class=3D"css-9808wn">Value</th></tr></thead><tbod=
+y><tr class=3D"css-47yhhe-LegendRow"><td><span class=3D"css-fblkr"><div cla=
+ss=3D"pointer" style=3D"background: rgb(242, 73, 92); width: 14px; height: =
+4px; border-radius: 1px; display: inline-block; margin-right: 8px;"></div><=
+div class=3D"css-w166kv-LegendLabel-LegendClickable">javascript </div></spa=
+n></td><td class=3D"css-1ygjoln">4 MB</td></tr><tr class=3D"css-47yhhe-Lege=
+ndRow"><td><span class=3D"css-fblkr"><div class=3D"pointer" style=3D"backgr=
+ound: rgb(255, 120, 10); width: 14px; height: 4px; border-radius: 1px; disp=
+lay: inline-block; margin-right: 8px;"></div><div class=3D"css-w166kv-Legen=
+dLabel-LegendClickable">image </div></span></td><td class=3D"css-1ygjoln">1=
+ MB</td></tr><tr class=3D"css-47yhhe-LegendRow"><td><span class=3D"css-fblk=
+r"><div class=3D"pointer" style=3D"background: rgb(87, 148, 242); width: 14=
+px; height: 4px; border-radius: 1px; display: inline-block; margin-right: 8=
+px;"></div><div class=3D"css-w166kv-LegendLabel-LegendClickable">json </div=
+></span></td><td class=3D"css-1ygjoln">769 kB</td></tr><tr class=3D"css-47y=
+hhe-LegendRow"><td><span class=3D"css-fblkr"><div class=3D"pointer" style=
+=3D"background: rgb(242, 204, 12); width: 14px; height: 4px; border-radius:=
+ 1px; display: inline-block; margin-right: 8px;"></div><div class=3D"css-w1=
+66kv-LegendLabel-LegendClickable">font </div></span></td><td class=3D"css-1=
+ygjoln">163 kB</td></tr><tr class=3D"css-47yhhe-LegendRow"><td><span class=
+=3D"css-fblkr"><div class=3D"pointer" style=3D"background: rgb(115, 191, 10=
+5); width: 14px; height: 4px; border-radius: 1px; display: inline-block; ma=
+rgin-right: 8px;"></div><div class=3D"css-w166kv-LegendLabel-LegendClickabl=
+e">css </div></span></td><td class=3D"css-1ygjoln">22 kB</td></tr><tr class=
+=3D"css-47yhhe-LegendRow"><td><span class=3D"css-fblkr"><div class=3D"point=
+er" style=3D"background: rgb(138, 184, 255); width: 14px; height: 4px; bord=
+er-radius: 1px; display: inline-block; margin-right: 8px;"></div><div class=
+=3D"css-w166kv-LegendLabel-LegendClickable">html </div></span></td><td clas=
+s=3D"css-1ygjoln">10 kB</td></tr><tr class=3D"css-47yhhe-LegendRow"><td><sp=
+an class=3D"css-fblkr"><div class=3D"pointer" style=3D"background: rgb(184,=
+ 119, 217); width: 14px; height: 4px; border-radius: 1px; display: inline-b=
+lock; margin-right: 8px;"></div><div class=3D"css-w166kv-LegendLabel-Legend=
+Clickable">other </div></span></td><td class=3D"css-1ygjoln">11 B</td></tr>=
+<tr class=3D"css-47yhhe-LegendRow"><td><span class=3D"css-fblkr"><div class=
+=3D"pointer" style=3D"background: rgb(112, 93, 160); width: 14px; height: 4=
+px; border-radius: 1px; display: inline-block; margin-right: 8px;"></div><d=
+iv class=3D"css-w166kv-LegendLabel-LegendClickable">plain </div></span></td=
+><td class=3D"css-1ygjoln">0 B</td></tr></tbody></table></div><div class=3D=
+"track-horizontal" style=3D"position: absolute; height: 6px; display: none;=
+"><div class=3D"thumb-horizontal" style=3D"position: relative; display: blo=
+ck; height: 100%;"></div></div><div class=3D"track-vertical" style=3D"posit=
+ion: absolute; width: 6px; display: none;"><div class=3D"thumb-vertical" st=
+yle=3D"position: relative; display: block; width: 100%;"></div></div></div>=
+</div></div></div></section></div><span class=3D"react-resizable-handle rea=
+ct-resizable-handle-se"></span></div><div class=3D"react-grid-item react-dr=
+aggable react-resizable" data-panelid=3D"281" style=3D"top: 266px; left: 0p=
+x; width: 219px; height: 144px; position: absolute;"><div id=3D"12" style=
+=3D"width: 219px; height: 144px;"><section class=3D"panel-container panel-c=
 ontainer--no-title" aria-label=3D" panel"><div class=3D"panel-header grid-d=
 rag-handle"><header data-testid=3D"data-testid Panel header " class=3D"pane=
 l-title-container"><div><div class=3D"panel-title"><h2 class=3D"css-1m35bcr=
@@ -575,587 +780,247 @@ svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16"=
 .24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></div>=
 </div></div></header></div><div class=3D"panel-content panel-content--no-pa=
 dding"><div style=3D"position: relative;"><div style=3D"position: absolute;=
- left: 0px; top: 0px; width: 217px; height: 180px;"><div style=3D"width: 21=
-7px; height: 180px; padding: 12px; border-radius: 3px; position: relative; =
-display: flex; background: linear-gradient(120deg, rgb(223, 20, 16), rgb(24=
-0, 49, 96)); align-items: center; flex-direction: row;"><div style=3D"displ=
-ay: flex; align-items: center; justify-content: center; flex-grow: 1; flex-=
-direction: column;"><div style=3D"font-size: 22.5px; line-height: 1.2; colo=
-r: rgb(247, 248, 250);">Load Event End</div><div style=3D"font-size: 67.629=
-3px; font-weight: 500; line-height: 1.2; position: relative; z-index: 1; te=
-xt-align: center; color: rgb(247, 248, 250);"><div><span>7.20</span><span s=
-tyle=3D"font-size: 40.5776px;"> s</span></div></div></div></div></div></div=
-></div></section></div><span class=3D"react-resizable-handle react-resizabl=
-e-handle-se"></span></div><div class=3D"react-grid-item react-draggable rea=
-ct-resizable" data-panelid=3D"280" style=3D"top: 38px; left: 1133px; width:=
- 219px; height: 182px; position: absolute;"><div id=3D"9" style=3D"width: 2=
-19px; height: 182px;"><section class=3D"panel-container panel-container--no=
--title" aria-label=3D" panel"><div class=3D"panel-header grid-drag-handle">=
-<header data-testid=3D"data-testid Panel header " class=3D"panel-title-cont=
-ainer"><div><div class=3D"panel-title"><h2 class=3D"css-1m35bcr"></h2><div =
-data-testid=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"><svg xmlns=3D=
-"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"1=
-6" class=3D"css-eyx4do panel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.4=
-1,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,=
-0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></div></div></div>=
-</header></div><div class=3D"panel-content panel-content--no-padding"><div =
-style=3D"position: relative;"><div style=3D"position: absolute; left: 0px; =
-top: 0px; width: 217px; height: 180px;"><div style=3D"width: 217px; height:=
- 180px; padding: 12px; border-radius: 3px; position: relative; display: fle=
-x; background: linear-gradient(120deg, rgb(223, 20, 16), rgb(240, 49, 96));=
- align-items: center; flex-direction: row;"><div style=3D"display: flex; al=
-ign-items: center; justify-content: center; flex-grow: 1; flex-direction: c=
-olumn;"><div style=3D"font-size: 22.5px; line-height: 1.2; color: rgb(247, =
-248, 250);">Fully Loaded</div><div style=3D"font-size: 67.6293px; font-weig=
-ht: 500; line-height: 1.2; position: relative; z-index: 1; text-align: cent=
-er; color: rgb(247, 248, 250);"><div><span>18.3</span><span style=3D"font-s=
-ize: 40.5776px;"> s</span></div></div></div></div></div></div></div></secti=
-on></div><span class=3D"react-resizable-handle react-resizable-handle-se"><=
-/span></div><div class=3D"react-grid-item react-draggable react-resizable" =
-data-panelid=3D"190" style=3D"top: 228px; left: 0px; width: 672px; height: =
-30px; position: absolute;"><div id=3D"10" style=3D"width: 672px; height: 30=
-px;"><section class=3D"panel-container" aria-label=3D"Google Web Vitals pan=
-el"><div class=3D"panel-header grid-drag-handle"><header data-testid=3D"dat=
-a-testid Panel header Google Web Vitals" class=3D"panel-title-container"><d=
-iv><div class=3D"panel-title"><h2 class=3D"css-1m35bcr">Google Web Vitals</=
-h2><div data-testid=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"><svg =
-xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" hei=
-ght=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path d=3D"M17,9.17a1,1,0=
-,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a=
-1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></div></di=
-v></div></header></div><div class=3D"panel-content"><div class=3D"css-12b7m=
-5k" style=3D"position: relative; overflow: hidden; width: 100%; height: aut=
-o; min-height: 100%; max-height: 100%;"><div class=3D"scrollbar-view" style=
-=3D"position: relative; overflow: scroll; margin-right: 0px; margin-bottom:=
- 0px; min-height: calc(100% + 0px); max-height: calc(100% + 0px);"><div cla=
-ss=3D"markdown-html css-fb3dw2" data-testid=3D"TextPanel-converted-content"=
-></div></div><div class=3D"track-horizontal" style=3D"position: absolute; h=
-eight: 6px; display: none;"><div class=3D"thumb-horizontal" style=3D"positi=
-on: relative; display: block; height: 100%;"></div></div><div class=3D"trac=
-k-vertical" style=3D"position: absolute; width: 6px; display: none;"><div c=
-lass=3D"thumb-vertical" style=3D"position: relative; display: block; width:=
- 100%;"></div></div></div></div></section></div><span class=3D"react-resiza=
-ble-handle react-resizable-handle-se"></span></div><div class=3D"react-grid=
--item react-draggable react-resizable" data-panelid=3D"246" style=3D"top: 2=
-28px; left: 680px; width: 672px; height: 562px; position: absolute;"><div i=
-d=3D"11" style=3D"width: 672px; height: 562px;"><section class=3D"panel-con=
-tainer" aria-label=3D"Content size per type panel"><div class=3D"panel-head=
-er grid-drag-handle"><header data-testid=3D"data-testid Panel header Conten=
-t size per type" class=3D"panel-title-container"><div><div class=3D"panel-t=
-itle"><h2 class=3D"css-1m35bcr">Content size per type</h2><div data-testid=
-=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www=
-.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D=
-"css-eyx4do panel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.7=
-1,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17=
-,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></div></div></div></header></=
-div><div class=3D"panel-content"><div style=3D"display: flex; width: 654px;=
- height: 512px; flex-direction: row;"><div tabindex=3D"0" class=3D"css-157c=
-53p"><div class=3D"css-nx8q14"><svg width=3D"509.203125" height=3D"509.2031=
-25"><g class=3D"visx-group" transform=3D"translate(254.6015625, 254.6015625=
-)"><defs><radialGradient id=3D"PieChart0-f2495c" gradientUnits=3D"userSpace=
-OnUse" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=3D"0" stop-col=
-or=3D"rgb(199, 14, 23)" stop-opacity=3D"1"></stop><stop offset=3D"1" stop-c=
-olor=3D"rgb(239, 25, 64)" stop-opacity=3D"1"></stop></radialGradient></defs=
-><defs><radialGradient id=3D"PieChart0-ff780a" gradientUnits=3D"userSpaceOn=
-Use" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=3D"0" stop-color=
-=3D"rgb(163, 84, 0)" stop-opacity=3D"1"></stop><stop offset=3D"1" stop-colo=
-r=3D"rgb(214, 82, 0)" stop-opacity=3D"1"></stop></radialGradient></defs><de=
-fs><radialGradient id=3D"PieChart0-5794f2" gradientUnits=3D"userSpaceOnUse"=
- cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=3D"0" stop-color=3D"=
-rgb(16, 80, 211)" stop-opacity=3D"1"></stop><stop offset=3D"1" stop-color=
-=3D"rgb(40, 131, 238)" stop-opacity=3D"1"></stop></radialGradient></defs><d=
-efs><radialGradient id=3D"PieChart0-f2cc0c" gradientUnits=3D"userSpaceOnUse=
-" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=3D"0" stop-color=3D=
-"rgb(145, 131, 7)" stop-opacity=3D"1"></stop><stop offset=3D"1" stop-color=
-=3D"rgb(193, 151, 10)" stop-opacity=3D"1"></stop></radialGradient></defs><d=
-efs><radialGradient id=3D"PieChart0-73bf69" gradientUnits=3D"userSpaceOnUse=
-" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=3D"0" stop-color=3D=
-"rgb(62, 136, 58)" stop-opacity=3D"1"></stop><stop offset=3D"1" stop-color=
-=3D"rgb(91, 172, 73)" stop-opacity=3D"1"></stop></radialGradient></defs><de=
-fs><radialGradient id=3D"PieChart0-8ab8ff" gradientUnits=3D"userSpaceOnUse"=
- cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=3D"0" stop-color=3D"=
-rgb(36, 107, 255)" stop-opacity=3D"1"></stop><stop offset=3D"1" stop-color=
-=3D"rgb(87, 164, 255)" stop-opacity=3D"1"></stop></radialGradient></defs><d=
-efs><radialGradient id=3D"PieChart0-705da0" gradientUnits=3D"userSpaceOnUse=
-" cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=3D"0" stop-color=3D=
-"rgb(69, 56, 95)" stop-opacity=3D"1"></stop><stop offset=3D"1" stop-color=
-=3D"rgb(86, 74, 128)" stop-opacity=3D"1"></stop></radialGradient></defs><de=
-fs><radialGradient id=3D"PieChart0-b877d9" gradientUnits=3D"userSpaceOnUse"=
- cx=3D"0" cy=3D"0" radius=3D"238.6015625"><stop offset=3D"0" stop-color=3D"=
-rgb(147, 51, 183)" stop-opacity=3D"1"></stop><stop offset=3D"1" stop-color=
-=3D"rgb(155, 79, 206)" stop-opacity=3D"1"></stop></radialGradient></defs><g=
- class=3D"css-13k7x98" aria-label=3D"Pie Chart Slice"><path d=3D"M0.5889555=
-40710741,-235.581725487807A3,3,0,0,1,3.6346455166999667,-238.5738774036448A=
-238.6015625,238.6015625,0,1,1,-192.68426173847453,140.7248411110861A3,3,0,0=
-,1,-191.99997014229368,136.51046742942367L0,0Z" fill=3D"url(#PieChart0-f249=
-5c)" stroke=3D"#181b1f" stroke-width=3D"1"></path></g><g class=3D"css-13k7x=
-98" aria-label=3D"Pie Chart Slice"><path d=3D"M-192.68011964084948,135.5487=
-652014187A3,3,0,0,1,-196.8816962725454,134.78984865443906A238.6015625,238.6=
-015625,0,0,1,-195.59976935971466,-136.6434625361486A3,3,0,0,1,-191.39121188=
-372323,-137.36265964999797L0,0Z" fill=3D"url(#PieChart0-ff780a)" stroke=3D"=
-#181b1f" stroke-width=3D"1"></path></g><g class=3D"css-13k7x98" aria-label=
-=3D"Pie Chart Slice"><path d=3D"M-190.70200906202732,-138.31789469243614A3,=
-3,0,0,1,-191.3464636807309,-142.53854378490098A238.6015625,238.6015625,0,0,=
-1,-54.76216180212497,-232.23223562244604A3,3,0,0,1,-51.14517530982808,-229.=
-96362167736086L0,0Z" fill=3D"url(#PieChart0-5794f2)" stroke=3D"#181b1f" str=
-oke-width=3D"1"></path></g><g class=3D"css-13k7x98" aria-label=3D"Pie Chart=
- Slice"><path d=3D"M-49.99472267898442,-230.21647194910454A3,3,0,0,1,-47.66=
-2326232491104,-233.7926608889787A238.6015625,238.6015625,0,0,1,-15.86690285=
-5732306,-238.07340679128393A3,3,0,0,1,-12.67174715615523,-235.2414144585342=
-2L0,0Z" fill=3D"url(#PieChart0-f2cc0c)" stroke=3D"#181b1f" stroke-width=3D"=
-1"></path></g><g class=3D"css-13k7x98" aria-label=3D"Pie Chart Slice"><path=
- d=3D"M-11.519110795057202,-235.78744891379097A2.5194609709628413,2.5194609=
-709628413,0,1,1,-6.484140649803738,-235.9795900047628L0,0Z" fill=3D"url(#Pi=
-eChart0-73bf69)" stroke=3D"#181b1f" stroke-width=3D"1"></path></g><g class=
-=3D"css-13k7x98" aria-label=3D"Pie Chart Slice"><path d=3D"M-5.334427954931=
-991,-237.355542372076A1.1831356114708456,1.1831356114708456,0,1,1,-2.968547=
-908774717,-237.3969193980032L0,0Z" fill=3D"url(#PieChart0-8ab8ff)" stroke=
-=3D"#181b1f" stroke-width=3D"1"></path></g><g class=3D"css-13k7x98" aria-la=
-bel=3D"Pie Chart Slice"><path d=3D"M-1.7904278358993482,-238.59437663527274=
-A0.00046821493775081813,0.00046821493775081813,0,1,1,-1.7894914323745987,-2=
-38.5943836602685L0,0Z" fill=3D"url(#PieChart0-705da0)" stroke=3D"#181b1f" s=
-troke-width=3D"1"></path></g><g class=3D"css-13k7x98" aria-label=3D"Pie Cha=
-rt Slice"><path d=3D"M-0.5965032848923075,-238.60081687050553L0,0Z" fill=3D=
-"url(#PieChart0-b877d9)" stroke=3D"#181b1f" stroke-width=3D"1"></path></g><=
-/g></svg></div></div><div style=3D"max-width: 60%;"><div class=3D"css-12b7m=
-5k" style=3D"position: relative; overflow: hidden; width: 100%; height: aut=
-o; min-height: 0px; max-height: 100%;"><div class=3D"scrollbar-view" style=
-=3D"position: relative; overflow: scroll; margin-right: 0px; margin-bottom:=
- 0px; max-height: calc(100% + 0px);"><table class=3D"css-gncwal"><thead><tr=
-><th></th><th class=3D"css-9808wn">Value</th></tr></thead><tbody><tr class=
-=3D"css-47yhhe-LegendRow"><td><span class=3D"css-fblkr"><div class=3D"point=
-er" style=3D"background: rgb(242, 73, 92); width: 14px; height: 4px; border=
--radius: 1px; display: inline-block; margin-right: 8px;"></div><div class=
-=3D"css-w166kv-LegendLabel-LegendClickable">javascript </div></span></td><t=
-d class=3D"css-1ygjoln">4 MB</td></tr><tr class=3D"css-47yhhe-LegendRow"><t=
-d><span class=3D"css-fblkr"><div class=3D"pointer" style=3D"background: rgb=
-(255, 120, 10); width: 14px; height: 4px; border-radius: 1px; display: inli=
-ne-block; margin-right: 8px;"></div><div class=3D"css-w166kv-LegendLabel-Le=
-gendClickable">image </div></span></td><td class=3D"css-1ygjoln">1 MB</td><=
-/tr><tr class=3D"css-47yhhe-LegendRow"><td><span class=3D"css-fblkr"><div c=
-lass=3D"pointer" style=3D"background: rgb(87, 148, 242); width: 14px; heigh=
-t: 4px; border-radius: 1px; display: inline-block; margin-right: 8px;"></di=
-v><div class=3D"css-w166kv-LegendLabel-LegendClickable">json </div></span><=
-/td><td class=3D"css-1ygjoln">738 kB</td></tr><tr class=3D"css-47yhhe-Legen=
-dRow"><td><span class=3D"css-fblkr"><div class=3D"pointer" style=3D"backgro=
-und: rgb(242, 204, 12); width: 14px; height: 4px; border-radius: 1px; displ=
-ay: inline-block; margin-right: 8px;"></div><div class=3D"css-w166kv-Legend=
-Label-LegendClickable">font </div></span></td><td class=3D"css-1ygjoln">163=
- kB</td></tr><tr class=3D"css-47yhhe-LegendRow"><td><span class=3D"css-fblk=
-r"><div class=3D"pointer" style=3D"background: rgb(115, 191, 105); width: 1=
-4px; height: 4px; border-radius: 1px; display: inline-block; margin-right: =
-8px;"></div><div class=3D"css-w166kv-LegendLabel-LegendClickable">css </div=
-></span></td><td class=3D"css-1ygjoln">22 kB</td></tr><tr class=3D"css-47yh=
-he-LegendRow"><td><span class=3D"css-fblkr"><div class=3D"pointer" style=3D=
-"background: rgb(138, 184, 255); width: 14px; height: 4px; border-radius: 1=
-px; display: inline-block; margin-right: 8px;"></div><div class=3D"css-w166=
-kv-LegendLabel-LegendClickable">html </div></span></td><td class=3D"css-1yg=
-joln">10 kB</td></tr><tr class=3D"css-47yhhe-LegendRow"><td><span class=3D"=
-css-fblkr"><div class=3D"pointer" style=3D"background: rgb(112, 93, 160); w=
-idth: 14px; height: 4px; border-radius: 1px; display: inline-block; margin-=
-right: 8px;"></div><div class=3D"css-w166kv-LegendLabel-LegendClickable">pl=
-ain </div></span></td><td class=3D"css-1ygjoln">4 B</td></tr><tr class=3D"c=
-ss-47yhhe-LegendRow"><td><span class=3D"css-fblkr"><div class=3D"pointer" s=
-tyle=3D"background: rgb(184, 119, 217); width: 14px; height: 4px; border-ra=
-dius: 1px; display: inline-block; margin-right: 8px;"></div><div class=3D"c=
-ss-w166kv-LegendLabel-LegendClickable">other </div></span></td><td class=3D=
-"css-1ygjoln">0 B</td></tr></tbody></table></div><div class=3D"track-horizo=
-ntal" style=3D"position: absolute; height: 6px; display: none;"><div class=
-=3D"thumb-horizontal" style=3D"position: relative; display: block; height: =
-100%;"></div></div><div class=3D"track-vertical" style=3D"position: absolut=
-e; width: 6px; display: none;"><div class=3D"thumb-vertical" style=3D"posit=
-ion: relative; display: block; width: 100%;"></div></div></div></div></div>=
-</div></section></div><span class=3D"react-resizable-handle react-resizable=
--handle-se"></span></div><div class=3D"react-grid-item react-draggable reac=
-t-resizable" data-panelid=3D"191" style=3D"top: 266px; left: 0px; width: 16=
-2px; height: 144px; position: absolute;"><div id=3D"12" style=3D"width: 162=
-px; height: 144px;"><section class=3D"panel-container panel-container--no-t=
-itle" aria-label=3D" panel"><div class=3D"panel-header grid-drag-handle"><h=
-eader data-testid=3D"data-testid Panel header " class=3D"panel-title-contai=
-ner"><div><div class=3D"panel-title"><h2 class=3D"css-1m35bcr"></h2><div da=
-ta-testid=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"h=
-ttp://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16"=
- class=3D"css-eyx4do panel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,=
-0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,=
-1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></div></div></div></=
-header></div><div class=3D"panel-content panel-content--no-padding"><div st=
-yle=3D"position: relative;"><div style=3D"position: absolute; left: 0px; to=
-p: 0px; width: 160px; height: 142px;"><div style=3D"width: 160px; height: 1=
-42px; padding: 12px; border-radius: 3px; position: relative; display: flex;=
- background: linear-gradient(120deg, rgb(194, 168, 21), rgb(232, 149, 34));=
- align-items: center; flex-direction: row;"><div style=3D"display: flex; al=
-ign-items: center; justify-content: center; flex-grow: 1; flex-direction: c=
-olumn;"><div style=3D"font-size: 17.75px; line-height: 1.2; color: rgb(32, =
-34, 38);">FCP</div><div style=3D"font-size: 47.6558px; font-weight: 500; li=
-ne-height: 1.2; position: relative; z-index: 1; text-align: center; color: =
-rgb(32, 34, 38);"><div><span>3.46</span><span style=3D"font-size: 28.5935px=
-;"> s</span></div></div></div></div></div></div></div></section></div><span=
- class=3D"react-resizable-handle react-resizable-handle-se"></span></div><d=
-iv class=3D"react-grid-item react-draggable react-resizable" data-panelid=
-=3D"192" style=3D"top: 266px; left: 170px; width: 162px; height: 144px; pos=
-ition: absolute;"><div id=3D"13" style=3D"width: 162px; height: 144px;"><se=
-ction class=3D"panel-container panel-container--no-title" aria-label=3D" pa=
-nel"><div class=3D"panel-header grid-drag-handle"><header data-testid=3D"da=
-ta-testid Panel header " class=3D"panel-title-container"><div><div class=3D=
-"panel-title"><h2 class=3D"css-1m35bcr"></h2><div data-testid=3D"panel-drop=
-down"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/s=
-vg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do pa=
-nel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,=
-1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0=
-,0,17,9.17Z"></path></svg></div></div></div></div></header></div><div class=
-=3D"panel-content panel-content--no-padding"><div style=3D"position: relati=
-ve;"><div style=3D"position: absolute; left: 0px; top: 0px; width: 160px; h=
-eight: 142px;"><div style=3D"width: 160px; height: 142px; padding: 12px; bo=
-rder-radius: 3px; position: relative; display: flex; background: linear-gra=
-dient(120deg, rgb(223, 20, 16), rgb(240, 49, 96)); align-items: center; fle=
-x-direction: row;"><div style=3D"display: flex; align-items: center; justif=
-y-content: center; flex-grow: 1; flex-direction: column;"><div style=3D"fon=
-t-size: 17.75px; line-height: 1.2; color: rgb(247, 248, 250);">LCP</div><di=
-v style=3D"font-size: 47.6558px; font-weight: 500; line-height: 1.2; positi=
-on: relative; z-index: 1; text-align: center; color: rgb(247, 248, 250);"><=
-div><span>5.76</span><span style=3D"font-size: 28.5935px;"> s</span></div><=
-/div></div></div></div></div></div></section></div><span class=3D"react-res=
-izable-handle react-resizable-handle-se"></span></div><div class=3D"react-g=
-rid-item react-draggable react-resizable" data-panelid=3D"193" style=3D"top=
-: 266px; left: 340px; width: 162px; height: 144px; position: absolute;"><di=
-v id=3D"14" style=3D"width: 162px; height: 144px;"><section class=3D"panel-=
-container panel-container--no-title" aria-label=3D" panel"><div class=3D"pa=
-nel-header grid-drag-handle"><header data-testid=3D"data-testid Panel heade=
-r " class=3D"panel-title-container"><div><div class=3D"panel-title"><h2 cla=
-ss=3D"css-1m35bcr"></h2><div data-testid=3D"panel-dropdown"><div class=3D"c=
-ss-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24=
- 24" width=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-toggle"><pat=
-h d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,=
-0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path><=
-/svg></div></div></div></div></header></div><div class=3D"panel-content pan=
-el-content--no-padding"><div style=3D"position: relative;"><div style=3D"po=
-sition: absolute; left: 0px; top: 0px; width: 160px; height: 142px;"><div s=
-tyle=3D"width: 160px; height: 142px; padding: 12px; border-radius: 3px; pos=
-ition: relative; display: flex; background: linear-gradient(120deg, rgb(223=
-, 20, 16), rgb(240, 49, 96)); align-items: center; flex-direction: row;"><d=
-iv style=3D"display: flex; align-items: center; justify-content: center; fl=
-ex-grow: 1; flex-direction: column;"><div style=3D"font-size: 17.75px; line=
--height: 1.2; color: rgb(247, 248, 250);">CLS</div><div style=3D"font-size:=
- 51.2795px; font-weight: 500; line-height: 1.2; position: relative; z-index=
-: 1; text-align: center; color: rgb(247, 248, 250);"><div><span>0.761</span=
-></div></div></div></div></div></div></div></section></div><span class=3D"r=
-eact-resizable-handle react-resizable-handle-se"></span></div><div class=3D=
-"react-grid-item react-draggable react-resizable" data-panelid=3D"194" styl=
-e=3D"top: 266px; left: 510px; width: 162px; height: 144px; position: absolu=
-te;"><div id=3D"15" style=3D"width: 162px; height: 144px;"><section class=
-=3D"panel-container panel-container--no-title" aria-label=3D" panel"><div c=
-lass=3D"panel-header grid-drag-handle"><header data-testid=3D"data-testid P=
-anel header " class=3D"panel-title-container"><div><div class=3D"panel-titl=
-e"><h2 class=3D"css-1m35bcr"></h2><div data-testid=3D"panel-dropdown"><div =
-class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=
-=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-to=
-ggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.4=
-1,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z=
-"></path></svg></div></div></div></div></header></div><div class=3D"panel-c=
-ontent panel-content--no-padding"><div style=3D"position: relative;"><div s=
-tyle=3D"position: absolute; left: 0px; top: 0px; width: 160px; height: 142p=
-x;"><div style=3D"width: 160px; height: 142px; padding: 12px; border-radius=
-: 3px; position: relative; display: flex; background: linear-gradient(120de=
-g, rgb(223, 20, 16), rgb(240, 49, 96)); align-items: center; flex-direction=
-: row;"><div style=3D"display: flex; align-items: center; justify-content: =
-center; flex-grow: 1; flex-direction: column;"><div style=3D"font-size: 17.=
-75px; line-height: 1.2; color: rgb(247, 248, 250);">TBT</div><div style=3D"=
-font-size: 39.2261px; font-weight: 500; line-height: 1.2; position: relativ=
-e; z-index: 1; text-align: center; color: rgb(247, 248, 250);"><div><span>9=
-30</span><span style=3D"font-size: 23.5357px;"> ms</span></div></div></div>=
-</div></div></div></div></section></div><span class=3D"react-resizable-hand=
-le react-resizable-handle-se"></span></div><div class=3D"react-grid-item re=
-act-draggable react-resizable" data-panelid=3D"186" style=3D"top: 418px; le=
-ft: 0px; width: 672px; height: 182px; position: absolute;"><div id=3D"16" s=
-tyle=3D"width: 672px; height: 182px;"><section class=3D"panel-container" ar=
-ia-label=3D"Coach Score panel"><section class=3D"panel-info-corner panel-in=
-fo-corner--info" aria-label=3D"Panel header info"><i aria-hidden=3D"true" c=
-lass=3D"fa"></i><span class=3D"panel-info-corner-inner"></span></section><d=
-iv class=3D"panel-header grid-drag-handle"><header data-testid=3D"data-test=
-id Panel header Coach Score" class=3D"panel-title-container"><div><div clas=
-s=3D"panel-title"><h2 class=3D"css-1m35bcr">Coach Score</h2><div data-testi=
-d=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://ww=
-w.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=
+ left: 0px; top: 0px; width: 217px; height: 142px;"><div style=3D"width: 21=
+7px; height: 142px; padding: 12px; border-radius: 3px; position: relative; =
+display: flex; background: linear-gradient(120deg, rgb(66, 154, 67), rgb(11=
+1, 183, 87)); align-items: center; flex-direction: row;"><div style=3D"disp=
+lay: flex; align-items: center; justify-content: center; flex-grow: 1; flex=
+-direction: column;"><div style=3D"font-size: 17.75px; line-height: 1.2; co=
+lor: rgb(247, 248, 250);">FID</div><div style=3D"font-size: 51.739px; font-=
+weight: 500; line-height: 1.2; position: relative; z-index: 1; text-align: =
+center; color: rgb(247, 248, 250);"><div><span>2.25</span><span style=3D"fo=
+nt-size: 31.0434px;"> ms</span></div></div></div></div></div></div></div></=
+section></div><span class=3D"react-resizable-handle react-resizable-handle-=
+se"></span></div><div class=3D"react-grid-item react-draggable react-resiza=
+ble" data-panelid=3D"192" style=3D"top: 266px; left: 227px; width: 219px; h=
+eight: 144px; position: absolute;"><div id=3D"13" style=3D"width: 219px; he=
+ight: 144px;"><section class=3D"panel-container panel-container--no-title" =
+aria-label=3D" panel"><div class=3D"panel-header grid-drag-handle"><header =
+data-testid=3D"data-testid Panel header " class=3D"panel-title-container"><=
+div><div class=3D"panel-title"><h2 class=3D"css-1m35bcr"></h2><div data-tes=
+tid=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://=
+www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=
 =3D"css-eyx4do panel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,1=
 2.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0=
 L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></div></div></div></header=
 ></div><div class=3D"panel-content panel-content--no-padding"><div style=3D=
 "position: relative;"><div style=3D"position: absolute; left: 0px; top: 0px=
-; width: 165.25px; height: 148px;"><div style=3D"width: 165.25px; height: 1=
-48px; padding: 12px; border-radius: 3px; position: relative; display: flex;=
- background: linear-gradient(120deg, rgb(223, 20, 16), rgb(240, 49, 96)); a=
-lign-items: center; flex-direction: row;"><div style=3D"display: flex; alig=
-n-items: center; justify-content: center; flex-grow: 1; flex-direction: col=
-umn;"><div style=3D"font-size: 18.5px; line-height: 1.2; color: rgb(247, 24=
-8, 250);">Best practice</div><div style=3D"font-size: 84.8333px; font-weigh=
-t: 500; line-height: 1.2; position: relative; z-index: 1; text-align: cente=
-r; color: rgb(247, 248, 250);"><div><span>58</span></div></div></div></div>=
-</div><div style=3D"position: absolute; left: 168.25px; top: 0px; width: 16=
-5.25px; height: 148px;"><div style=3D"width: 165.25px; height: 148px; paddi=
-ng: 12px; border-radius: 3px; position: relative; display: flex; background=
-: linear-gradient(120deg, rgb(223, 20, 16), rgb(240, 49, 96)); align-items:=
- center; flex-direction: row;"><div style=3D"display: flex; align-items: ce=
-nter; justify-content: center; flex-grow: 1; flex-direction: column;"><div =
-style=3D"font-size: 18.5px; line-height: 1.2; color: rgb(247, 248, 250);">P=
-erformance</div><div style=3D"font-size: 84.8333px; font-weight: 500; line-=
-height: 1.2; position: relative; z-index: 1; text-align: center; color: rgb=
-(247, 248, 250);"><div><span>53</span></div></div></div></div></div><div st=
-yle=3D"position: absolute; left: 336.5px; top: 0px; width: 165.25px; height=
-: 148px;"><div style=3D"width: 165.25px; height: 148px; padding: 12px; bord=
-er-radius: 3px; position: relative; display: flex; background: linear-gradi=
-ent(120deg, rgb(223, 20, 16), rgb(240, 49, 96)); align-items: center; flex-=
-direction: row;"><div style=3D"display: flex; align-items: center; justify-=
-content: center; flex-grow: 1; flex-direction: column;"><div style=3D"font-=
-size: 18.5px; line-height: 1.2; color: rgb(247, 248, 250);">Privacy</div><d=
-iv style=3D"font-size: 84.8333px; font-weight: 500; line-height: 1.2; posit=
-ion: relative; z-index: 1; text-align: center; color: rgb(247, 248, 250);">=
-<div><span>62</span></div></div></div></div></div><div style=3D"position: a=
-bsolute; left: 504.75px; top: 0px; width: 165.25px; height: 148px;"><div st=
-yle=3D"width: 165.25px; height: 148px; padding: 12px; border-radius: 3px; p=
-osition: relative; display: flex; background: linear-gradient(120deg, rgb(2=
-23, 20, 16), rgb(240, 49, 96)); align-items: center; flex-direction: row;">=
-<div style=3D"display: flex; align-items: center; justify-content: center; =
-flex-grow: 1; flex-direction: column;"><div style=3D"font-size: 18.5px; lin=
-e-height: 1.2; color: rgb(247, 248, 250);">Total</div><div style=3D"font-si=
-ze: 84.8333px; font-weight: 500; line-height: 1.2; position: relative; z-in=
-dex: 1; text-align: center; color: rgb(247, 248, 250);"><div><span>56</span=
-></div></div></div></div></div></div></div></section></div><span class=3D"r=
-eact-resizable-handle react-resizable-handle-se"></span></div><div class=3D=
-"react-grid-item react-draggable react-resizable" data-panelid=3D"228" styl=
-e=3D"top: 608px; left: 0px; width: 672px; height: 30px; position: absolute;=
-"><div id=3D"17" style=3D"width: 672px; height: 30px;"><section class=3D"pa=
-nel-container" aria-label=3D"Page Vitals panel"><div class=3D"panel-header =
-grid-drag-handle"><header data-testid=3D"data-testid Panel header Page Vita=
-ls" class=3D"panel-title-container"><div><div class=3D"panel-title"><h2 cla=
-ss=3D"css-1m35bcr">Page Vitals</h2><div data-testid=3D"panel-dropdown"><div=
- class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBo=
-x=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-t=
-oggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.=
-41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17=
-Z"></path></svg></div></div></div></div></header></div><div class=3D"panel-=
-content"><div class=3D"css-12b7m5k" style=3D"position: relative; overflow: =
-hidden; width: 100%; height: auto; min-height: 100%; max-height: 100%;"><di=
-v class=3D"scrollbar-view" style=3D"position: relative; overflow: scroll; m=
-argin-right: 0px; margin-bottom: 0px; min-height: calc(100% + 0px); max-hei=
-ght: calc(100% + 0px);"><div class=3D"markdown-html css-fb3dw2" data-testid=
-=3D"TextPanel-converted-content"></div></div><div class=3D"track-horizontal=
-" style=3D"position: absolute; height: 6px; display: none;"><div class=3D"t=
-humb-horizontal" style=3D"position: relative; display: block; height: 100%;=
-"></div></div><div class=3D"track-vertical" style=3D"position: absolute; wi=
-dth: 6px; display: none;"><div class=3D"thumb-vertical" style=3D"position: =
-relative; display: block; width: 100%;"></div></div></div></div></section><=
-/div><span class=3D"react-resizable-handle react-resizable-handle-se"></spa=
-n></div><div class=3D"react-grid-item react-draggable react-resizable" data=
--panelid=3D"224" style=3D"top: 646px; left: 0px; width: 219px; height: 144p=
-x; position: absolute;"><div id=3D"18" style=3D"width: 219px; height: 144px=
-;"><section class=3D"panel-container panel-container--no-title" aria-label=
-=3D" panel"><div class=3D"panel-header grid-drag-handle"><header data-testi=
-d=3D"data-testid Panel header " class=3D"panel-title-container"><div><div c=
-lass=3D"panel-title"><h2 class=3D"css-1m35bcr"></h2><div data-testid=3D"pan=
-el-dropdown"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org=
-/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-ey=
-x4do panel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,=
-9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A=
-1,1,0,0,0,17,9.17Z"></path></svg></div></div></div></div></header></div><di=
-v class=3D"panel-content panel-content--no-padding"><div style=3D"position:=
- relative;"><div style=3D"position: absolute; left: 0px; top: 0px; width: 2=
-17px; height: 142px;"><div style=3D"width: 217px; height: 142px; padding: 1=
-2px; border-radius: 3px; position: relative; display: flex; background: lin=
-ear-gradient(120deg, rgb(223, 20, 16), rgb(240, 49, 96)); align-items: cent=
-er; flex-direction: row;"><div style=3D"display: flex; align-items: center;=
- justify-content: center; flex-grow: 1; flex-direction: column;"><div style=
-=3D"font-size: 17.75px; line-height: 1.2; color: rgb(247, 248, 250);">Total=
- Transfer Size</div><div style=3D"font-size: 50.342px; font-weight: 500; li=
-ne-height: 1.2; position: relative; z-index: 1; text-align: center; color: =
-rgb(247, 248, 250);"><div><span>5.19</span><span style=3D"font-size: 30.205=
-2px;"> MB</span></div></div></div></div></div></div></div></section></div><=
-span class=3D"react-resizable-handle react-resizable-handle-se"></span></di=
-v><div class=3D"react-grid-item react-draggable react-resizable" data-panel=
-id=3D"225" style=3D"top: 646px; left: 227px; width: 219px; height: 144px; p=
-osition: absolute;"><div id=3D"19" style=3D"width: 219px; height: 144px;"><=
-section class=3D"panel-container panel-container--no-title" aria-label=3D" =
-panel"><div class=3D"panel-header grid-drag-handle"><header data-testid=3D"=
-data-testid Panel header " class=3D"panel-title-container"><div><div class=
-=3D"panel-title"><h2 class=3D"css-1m35bcr"></h2><div data-testid=3D"panel-d=
-ropdown"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/200=
+; width: 217px; height: 142px;"><div style=3D"width: 217px; height: 142px; =
+padding: 12px; border-radius: 3px; position: relative; display: flex; backg=
+round: linear-gradient(120deg, rgb(223, 20, 16), rgb(240, 49, 96)); align-i=
+tems: center; flex-direction: row;"><div style=3D"display: flex; align-item=
+s: center; justify-content: center; flex-grow: 1; flex-direction: column;">=
+<div style=3D"font-size: 17.75px; line-height: 1.2; color: rgb(247, 248, 25=
+0);">LCP</div><div style=3D"font-size: 67.6293px; font-weight: 500; line-he=
+ight: 1.2; position: relative; z-index: 1; text-align: center; color: rgb(2=
+47, 248, 250);"><div><span>4.38</span><span style=3D"font-size: 40.5776px;"=
+> s</span></div></div></div></div></div></div></div></section></div><span c=
+lass=3D"react-resizable-handle react-resizable-handle-se"></span></div><div=
+ class=3D"react-grid-item react-draggable react-resizable" data-panelid=3D"=
+193" style=3D"top: 266px; left: 453px; width: 219px; height: 144px; positio=
+n: absolute;"><div id=3D"14" style=3D"width: 219px; height: 144px;"><sectio=
+n class=3D"panel-container panel-container--no-title" aria-label=3D" panel"=
+><div class=3D"panel-header grid-drag-handle"><header data-testid=3D"data-t=
+estid Panel header " class=3D"panel-title-container"><div><div class=3D"pan=
+el-title"><h2 class=3D"css-1m35bcr"></h2><div data-testid=3D"panel-dropdown=
+"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" =
+viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do panel-=
+menu-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,=
+0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,1=
+7,9.17Z"></path></svg></div></div></div></div></header></div><div class=3D"=
+panel-content panel-content--no-padding"><div style=3D"position: relative;"=
+><div style=3D"position: absolute; left: 0px; top: 0px; width: 217px; heigh=
+t: 142px;"><div style=3D"width: 217px; height: 142px; padding: 12px; border=
+-radius: 3px; position: relative; display: flex; background: linear-gradien=
+t(120deg, rgb(223, 20, 16), rgb(240, 49, 96)); align-items: center; flex-di=
+rection: row;"><div style=3D"display: flex; align-items: center; justify-co=
+ntent: center; flex-grow: 1; flex-direction: column;"><div style=3D"font-si=
+ze: 17.75px; line-height: 1.2; color: rgb(247, 248, 250);">CLS</div><div st=
+yle=3D"font-size: 72.7716px; font-weight: 500; line-height: 1.2; position: =
+relative; z-index: 1; text-align: center; color: rgb(247, 248, 250);"><div>=
+<span>0.771</span></div></div></div></div></div></div></div></section></div=
+><span class=3D"react-resizable-handle react-resizable-handle-se"></span></=
+div><div class=3D"react-grid-item react-draggable react-resizable" data-pan=
+elid=3D"186" style=3D"top: 418px; left: 0px; width: 672px; height: 182px; p=
+osition: absolute;"><div id=3D"15" style=3D"width: 672px; height: 182px;"><=
+section class=3D"panel-container" aria-label=3D"Coach Score panel"><section=
+ class=3D"panel-info-corner panel-info-corner--info" aria-label=3D"Panel he=
+ader info"><i aria-hidden=3D"true" class=3D"fa"></i><span class=3D"panel-in=
+fo-corner-inner"></span></section><div class=3D"panel-header grid-drag-hand=
+le"><header data-testid=3D"data-testid Panel header Coach Score" class=3D"p=
+anel-title-container"><div><div class=3D"panel-title"><h2 class=3D"css-1m35=
+bcr">Coach Score</h2><div data-testid=3D"panel-dropdown"><div class=3D"css-=
+wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24=
+" width=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path d=
+=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0=
+,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></sv=
+g></div></div></div></div></header></div><div class=3D"panel-content panel-=
+content--no-padding"><div style=3D"position: relative;"><div style=3D"posit=
+ion: absolute; left: 0px; top: 0px; width: 165.25px; height: 148px;"><div s=
+tyle=3D"width: 165.25px; height: 148px; padding: 12px; border-radius: 3px; =
+position: relative; display: flex; background: linear-gradient(120deg, rgb(=
+223, 20, 16), rgb(240, 49, 96)); align-items: center; flex-direction: row;"=
+><div style=3D"display: flex; align-items: center; justify-content: center;=
+ flex-grow: 1; flex-direction: column;"><div style=3D"font-size: 18.5px; li=
+ne-height: 1.2; color: rgb(247, 248, 250);">Best practice</div><div style=
+=3D"font-size: 67.564px; font-weight: 500; line-height: 1.2; position: rela=
+tive; z-index: 1; text-align: center; color: rgb(247, 248, 250);"><div><spa=
+n>58</span></div></div></div></div></div><div style=3D"position: absolute; =
+left: 168.25px; top: 0px; width: 165.25px; height: 148px;"><div style=3D"wi=
+dth: 165.25px; height: 148px; padding: 12px; border-radius: 3px; position: =
+relative; display: flex; background: linear-gradient(120deg, rgb(223, 20, 1=
+6), rgb(240, 49, 96)); align-items: center; flex-direction: row;"><div styl=
+e=3D"display: flex; align-items: center; justify-content: center; flex-grow=
+: 1; flex-direction: column;"><div style=3D"font-size: 18.5px; line-height:=
+ 1.2; color: rgb(247, 248, 250);">Performance</div><div style=3D"font-size:=
+ 67.564px; font-weight: 500; line-height: 1.2; position: relative; z-index:=
+ 1; text-align: center; color: rgb(247, 248, 250);"><div><span>57.3</span><=
+/div></div></div></div></div><div style=3D"position: absolute; left: 336.5p=
+x; top: 0px; width: 165.25px; height: 148px;"><div style=3D"width: 165.25px=
+; height: 148px; padding: 12px; border-radius: 3px; position: relative; dis=
+play: flex; background: linear-gradient(120deg, rgb(223, 20, 16), rgb(240, =
+49, 96)); align-items: center; flex-direction: row;"><div style=3D"display:=
+ flex; align-items: center; justify-content: center; flex-grow: 1; flex-dir=
+ection: column;"><div style=3D"font-size: 18.5px; line-height: 1.2; color: =
+rgb(247, 248, 250);">Privacy</div><div style=3D"font-size: 67.564px; font-w=
+eight: 500; line-height: 1.2; position: relative; z-index: 1; text-align: c=
+enter; color: rgb(247, 248, 250);"><div><span>62</span></div></div></div></=
+div></div><div style=3D"position: absolute; left: 504.75px; top: 0px; width=
+: 165.25px; height: 148px;"><div style=3D"width: 165.25px; height: 148px; p=
+adding: 12px; border-radius: 3px; position: relative; display: flex; backgr=
+ound: linear-gradient(120deg, rgb(223, 20, 16), rgb(240, 49, 96)); align-it=
+ems: center; flex-direction: row;"><div style=3D"display: flex; align-items=
+: center; justify-content: center; flex-grow: 1; flex-direction: column;"><=
+div style=3D"font-size: 18.5px; line-height: 1.2; color: rgb(247, 248, 250)=
+;">Total</div><div style=3D"font-size: 67.564px; font-weight: 500; line-hei=
+ght: 1.2; position: relative; z-index: 1; text-align: center; color: rgb(24=
+7, 248, 250);"><div><span>58.8</span></div></div></div></div></div></div></=
+div></section></div><span class=3D"react-resizable-handle react-resizable-h=
+andle-se"></span></div><div class=3D"react-grid-item react-draggable react-=
+resizable" data-panelid=3D"228" style=3D"top: 608px; left: 0px; width: 672p=
+x; height: 30px; position: absolute;"><div id=3D"16" style=3D"width: 672px;=
+ height: 30px;"><section class=3D"panel-container" aria-label=3D"Page Vital=
+s panel"><div class=3D"panel-header grid-drag-handle"><header data-testid=
+=3D"data-testid Panel header Page Vitals" class=3D"panel-title-container"><=
+div><div class=3D"panel-title"><h2 class=3D"css-1m35bcr">Page Vitals</h2><d=
+iv data-testid=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"><svg xmlns=
+=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=
+=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,=
+0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1=
+,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></div></div><=
+/div></header></div><div class=3D"panel-content"><div class=3D"css-12b7m5k"=
+ style=3D"position: relative; overflow: hidden; width: 100%; height: auto; =
+min-height: 100%; max-height: 100%;"><div class=3D"scrollbar-view" style=3D=
+"position: relative; overflow: scroll; margin-right: 0px; margin-bottom: 0p=
+x; min-height: calc(100% + 0px); max-height: calc(100% + 0px);"><div class=
+=3D"markdown-html css-fb3dw2" data-testid=3D"TextPanel-converted-content"><=
+/div></div><div class=3D"track-horizontal" style=3D"position: absolute; hei=
+ght: 6px; display: none;"><div class=3D"thumb-horizontal" style=3D"position=
+: relative; display: block; height: 100%;"></div></div><div class=3D"track-=
+vertical" style=3D"position: absolute; width: 6px; display: none;"><div cla=
+ss=3D"thumb-vertical" style=3D"position: relative; display: block; width: 1=
+00%;"></div></div></div></div></section></div><span class=3D"react-resizabl=
+e-handle react-resizable-handle-se"></span></div><div class=3D"react-grid-i=
+tem react-draggable react-resizable" data-panelid=3D"224" style=3D"top: 646=
+px; left: 0px; width: 219px; height: 144px; position: absolute;"><div id=3D=
+"17" style=3D"width: 219px; height: 144px;"><section class=3D"panel-contain=
+er panel-container--no-title" aria-label=3D" panel"><div class=3D"panel-hea=
+der grid-drag-handle"><header data-testid=3D"data-testid Panel header " cla=
+ss=3D"panel-title-container"><div><div class=3D"panel-title"><h2 class=3D"c=
+ss-1m35bcr"></h2><div data-testid=3D"panel-dropdown"><div class=3D"css-wf08=
+df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" wi=
+dth=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path d=3D"=
+M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1=
+.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></=
+div></div></div></div></header></div><div class=3D"panel-content panel-cont=
+ent--no-padding"><div style=3D"position: relative;"><div style=3D"position:=
+ absolute; left: 0px; top: 0px; width: 217px; height: 142px;"><div style=3D=
+"width: 217px; height: 142px; padding: 12px; border-radius: 3px; position: =
+relative; display: flex; background: linear-gradient(120deg, rgb(223, 20, 1=
+6), rgb(240, 49, 96)); align-items: center; flex-direction: row;"><div styl=
+e=3D"display: flex; align-items: center; justify-content: center; flex-grow=
+: 1; flex-direction: column;"><div style=3D"font-size: 17.75px; line-height=
+: 1.2; color: rgb(247, 248, 250);">Total Transfer Size</div><div style=3D"f=
+ont-size: 50.342px; font-weight: 500; line-height: 1.2; position: relative;=
+ z-index: 1; text-align: center; color: rgb(247, 248, 250);"><div><span>2.2=
+1</span><span style=3D"font-size: 30.2052px;"> MB</span></div></div></div><=
+/div></div></div></div></section></div><span class=3D"react-resizable-handl=
+e react-resizable-handle-se"></span></div><div class=3D"react-grid-item rea=
+ct-draggable react-resizable" data-panelid=3D"225" style=3D"top: 646px; lef=
+t: 227px; width: 219px; height: 144px; position: absolute;"><div id=3D"18" =
+style=3D"width: 219px; height: 144px;"><section class=3D"panel-container pa=
+nel-container--no-title" aria-label=3D" panel"><div class=3D"panel-header g=
+rid-drag-handle"><header data-testid=3D"data-testid Panel header " class=3D=
+"panel-title-container"><div><div class=3D"panel-title"><h2 class=3D"css-1m=
+35bcr"></h2><div data-testid=3D"panel-dropdown"><div class=3D"css-wf08df-Ic=
+on"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=
+=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-toggle"><path d=3D"M17=
+,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42=
+l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div=
+></div></div></div></header></div><div class=3D"panel-content panel-content=
+--no-padding"><div style=3D"position: relative;"><div style=3D"position: ab=
+solute; left: 0px; top: 0px; width: 217px; height: 142px;"><div style=3D"wi=
+dth: 217px; height: 142px; padding: 12px; border-radius: 3px; position: rel=
+ative; display: flex; background: linear-gradient(120deg, rgb(223, 20, 16),=
+ rgb(240, 49, 96)); align-items: center; flex-direction: row;"><div style=
+=3D"display: flex; align-items: center; justify-content: center; flex-grow:=
+ 1; flex-direction: column;"><div style=3D"font-size: 17.75px; line-height:=
+ 1.2; color: rgb(247, 248, 250);">Requests</div><div style=3D"font-size: 80=
+.5833px; font-weight: 500; line-height: 1.2; position: relative; z-index: 1=
+; text-align: center; color: rgb(247, 248, 250);"><div><span>276</span></di=
+v></div></div></div></div></div></div></section></div><span class=3D"react-=
+resizable-handle react-resizable-handle-se"></span></div><div class=3D"reac=
+t-grid-item react-draggable react-resizable" data-panelid=3D"226" style=3D"=
+top: 646px; left: 453px; width: 219px; height: 144px; position: absolute;">=
+<div id=3D"19" style=3D"width: 219px; height: 144px;"><section class=3D"pan=
+el-container panel-container--no-title" aria-label=3D" panel"><div class=3D=
+"panel-header grid-drag-handle"><header data-testid=3D"data-testid Panel he=
+ader " class=3D"panel-title-container"><div><div class=3D"panel-title"><h2 =
+class=3D"css-1m35bcr"></h2><div data-testid=3D"panel-dropdown"><div class=
+=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0=
+ 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do panel-menu-toggle"=
+><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1=
+,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></p=
+ath></svg></div></div></div></div></header></div><div class=3D"panel-conten=
+t panel-content--no-padding"><div style=3D"position: relative;"><div style=
+=3D"position: absolute; left: 0px; top: 0px; width: 217px; height: 142px;">=
+<div style=3D"width: 217px; height: 142px; padding: 12px; border-radius: 3p=
+x; position: relative; display: flex; background: linear-gradient(120deg, r=
+gb(194, 168, 21), rgb(232, 149, 34)); align-items: center; flex-direction: =
+row;"><div style=3D"display: flex; align-items: center; justify-content: ce=
+nter; flex-grow: 1; flex-direction: column;"><div style=3D"font-size: 17.75=
+px; line-height: 1.2; color: rgb(32, 34, 38);">DOM Elements</div><div style=
+=3D"font-size: 80.5833px; font-weight: 500; line-height: 1.2; position: rel=
+ative; z-index: 1; text-align: center; color: rgb(32, 34, 38);"><div><span>=
+4932</span></div></div></div></div></div></div></div></section></div><span =
+class=3D"react-resizable-handle react-resizable-handle-se"></span></div><di=
+v class=3D"react-grid-item react-draggable react-resizable-hide react-resiz=
+able" data-panelid=3D"146" style=3D"top: 798px; left: 0px; width: 1351px; h=
+eight: 30px; position: absolute;"><div class=3D"dashboard-row dashboard-row=
+--collapsed" data-testid=3D"dashboard-row-container"><a class=3D"dashboard-=
+row__title pointer" data-testid=3D"data-testid dashboard-row-title-Page sta=
+tistics"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/200=
 0/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do=
- panel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17=
-a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,=
-0,0,0,17,9.17Z"></path></svg></div></div></div></div></header></div><div cl=
-ass=3D"panel-content panel-content--no-padding"><div style=3D"position: rel=
-ative;"><div style=3D"position: absolute; left: 0px; top: 0px; width: 217px=
-; height: 142px;"><div style=3D"width: 217px; height: 142px; padding: 12px;=
- border-radius: 3px; position: relative; display: flex; background: linear-=
-gradient(120deg, rgb(223, 20, 16), rgb(240, 49, 96)); align-items: center; =
-flex-direction: row;"><div style=3D"display: flex; align-items: center; jus=
-tify-content: center; flex-grow: 1; flex-direction: column;"><div style=3D"=
-font-size: 17.75px; line-height: 1.2; color: rgb(247, 248, 250);">Requests<=
-/div><div style=3D"font-size: 80.5833px; font-weight: 500; line-height: 1.2=
-; position: relative; z-index: 1; text-align: center; color: rgb(247, 248, =
-250);"><div><span>199</span></div></div></div></div></div></div></div></sec=
-tion></div><span class=3D"react-resizable-handle react-resizable-handle-se"=
-></span></div><div class=3D"react-grid-item react-draggable react-resizable=
-" data-panelid=3D"226" style=3D"top: 646px; left: 453px; width: 219px; heig=
-ht: 144px; position: absolute;"><div id=3D"20" style=3D"width: 219px; heigh=
-t: 144px;"><section class=3D"panel-container panel-container--no-title" ari=
-a-label=3D" panel"><div class=3D"panel-header grid-drag-handle"><header dat=
-a-testid=3D"data-testid Panel header " class=3D"panel-title-container"><div=
-><div class=3D"panel-title"><h2 class=3D"css-1m35bcr"></h2><div data-testid=
-=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www=
-.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D=
-"css-eyx4do panel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.7=
-1,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17=
-,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></div></div></div></header></=
-div><div class=3D"panel-content panel-content--no-padding"><div style=3D"po=
-sition: relative;"><div style=3D"position: absolute; left: 0px; top: 0px; w=
-idth: 217px; height: 142px;"><div style=3D"width: 217px; height: 142px; pad=
-ding: 12px; border-radius: 3px; position: relative; display: flex; backgrou=
-nd: linear-gradient(120deg, rgb(66, 154, 67), rgb(111, 183, 87)); align-ite=
-ms: center; flex-direction: row;"><div style=3D"display: flex; align-items:=
- center; justify-content: center; flex-grow: 1; flex-direction: column;"><d=
-iv style=3D"font-size: 17.75px; line-height: 1.2; color: rgb(247, 248, 250)=
-;">DOM Elements</div><div style=3D"font-size: 80.5833px; font-weight: 500; =
-line-height: 1.2; position: relative; z-index: 1; text-align: center; color=
-: rgb(247, 248, 250);"><div><span>1368</span></div></div></div></div></div>=
-</div></div></section></div><span class=3D"react-resizable-handle react-res=
-izable-handle-se"></span></div><div class=3D"react-grid-item react-draggabl=
-e react-resizable-hide react-resizable" data-panelid=3D"146" style=3D"top: =
-798px; left: 0px; width: 1351px; height: 30px; position: absolute;"><div cl=
-ass=3D"dashboard-row dashboard-row--collapsed" data-testid=3D"dashboard-row=
--container"><a class=3D"dashboard-row__title pointer" data-testid=3D"data-t=
-estid dashboard-row-title-Page statistics"><div class=3D"css-wf08df-Icon"><=
-svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16"=
- height=3D"16" class=3D"css-eyx4do"><path d=3D"M14.83,11.29,10.59,7.05a1,1,=
-0,0,0-1.42,0,1,1,0,0,0,0,1.41L12.71,12,9.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0,=
-0,.71.29,1,1,0,0,0,.71-.29l4.24-4.24A1,1,0,0,0,14.83,11.29Z"></path></svg><=
-/div>Page statistics<span class=3D"dashboard-row__panel_count">(11 panels)<=
-/span></a><div class=3D"dashboard-row__actions"><a class=3D"pointer" role=
-=3D"button" aria-label=3D"Row options"><div class=3D"css-wf08df-Icon"><svg =
-xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" hei=
-ght=3D"16" class=3D"css-eyx4do"><path d=3D"M21.32,9.55l-1.89-.63.89-1.78A1,=
-1,0,0,0,20.13,6L18,3.87a1,1,0,0,0-1.15-.19l-1.78.89-.63-1.89A1,1,0,0,0,13.5=
-,2h-3a1,1,0,0,0-.95.68L8.92,4.57,7.14,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,=
-0-.19,1.15l.89,1.78-1.89.63A1,1,0,0,0,2,10.5v3a1,1,0,0,0,.68.95l1.89.63-.89=
-,1.78A1,1,0,0,0,3.87,18L6,20.13a1,1,0,0,0,1.15.19l1.78-.89.63,1.89a1,1,0,0,=
-0,.95.68h3a1,1,0,0,0,.95-.68l.63-1.89,1.78.89A1,1,0,0,0,18,20.13L20.13,18a1=
-,1,0,0,0,.19-1.15l-.89-1.78,1.89-.63A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21.32,9=
-.55ZM20,12.78l-1.2.4A2,2,0,0,0,17.64,16l.57,1.14-1.1,1.1L16,17.64a2,2,0,0,0=
--2.79,1.16l-.4,1.2H11.22l-.4-1.2A2,2,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.36,16=
-A2,2,0,0,0,5.2,13.18L4,12.78V11.22l1.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1.1-1.=
-1L8,6.36A2,2,0,0,0,10.82,5.2l.4-1.2h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,=
-1.1,1.1L17.64,8a2,2,0,0,0,1.16,2.79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,=
-8Zm0,6a2,2,0,1,1,2-2A2,2,0,0,1,12,14Z"></path></svg></div></a><a class=3D"p=
-ointer" role=3D"button" aria-label=3D"Delete row"><div class=3D"css-wf08df-=
-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=
-=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M10,18a1,1,0,0,0,1-1V=
-11a1,1,0,0,0-2,0v6A1,1,0,0,0,10,18ZM20,6H16V5a3,3,0,0,0-3-3H11A3,3,0,0,0,8,=
-5V6H4A1,1,0,0,0,4,8H5V19a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V8h1a1,1,0,0,0,0-2ZM1=
-0,5a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1V6H10Zm7,14a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V=
-8H17Zm-3-1a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,14,18Z"></path></svg>=
-</div></a></div><div class=3D"dashboard-row__toggle-target">&nbsp;</div><di=
-v data-testid=3D"dashboard-row-drag" class=3D"dashboard-row__drag grid-drag=
--handle"></div></div><span class=3D"react-resizable-handle react-resizable-=
-handle-se"></span></div><div class=3D"react-grid-item react-draggable react=
--resizable-hide react-resizable" data-panelid=3D"223" style=3D"top: 836px; =
-left: 0px; width: 1351px; height: 30px; position: absolute;"><div class=3D"=
-dashboard-row dashboard-row--collapsed" data-testid=3D"dashboard-row-contai=
-ner"><a class=3D"dashboard-row__title pointer" data-testid=3D"data-testid d=
-ashboard-row-title-CPU Long Tasks"><div class=3D"css-wf08df-Icon"><svg xmln=
-s=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=
-=3D"16" class=3D"css-eyx4do"><path d=3D"M14.83,11.29,10.59,7.05a1,1,0,0,0-1=
-.42,0,1,1,0,0,0,0,1.41L12.71,12,9.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.2=
-9,1,1,0,0,0,.71-.29l4.24-4.24A1,1,0,0,0,14.83,11.29Z"></path></svg></div>CP=
-U Long Tasks<span class=3D"dashboard-row__panel_count">(8 panels)</span></a=
-><div class=3D"dashboard-row__actions"><a class=3D"pointer" role=3D"button"=
- aria-label=3D"Row options"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"ht=
-tp://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" =
-class=3D"css-eyx4do"><path d=3D"M21.32,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20.=
-13,6L18,3.87a1,1,0,0,0-1.15-.19l-1.78.89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,0=
-,0,0-.95.68L8.92,4.57,7.14,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15l=
-.89,1.78-1.89.63A1,1,0,0,0,2,10.5v3a1,1,0,0,0,.68.95l1.89.63-.89,1.78A1,1,0=
-,0,0,3.87,18L6,20.13a1,1,0,0,0,1.15.19l1.78-.89.63,1.89a1,1,0,0,0,.95.68h3a=
-1,1,0,0,0,.95-.68l.63-1.89,1.78.89A1,1,0,0,0,18,20.13L20.13,18a1,1,0,0,0,.1=
-9-1.15l-.89-1.78,1.89-.63A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21.32,9.55ZM20,12.=
-78l-1.2.4A2,2,0,0,0,17.64,16l.57,1.14-1.1,1.1L16,17.64a2,2,0,0,0-2.79,1.16l=
--.4,1.2H11.22l-.4-1.2A2,2,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.36,16A2,2,0,0,0,=
-5.2,13.18L4,12.78V11.22l1.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1.1-1.1L8,6.36A2,=
-2,0,0,0,10.82,5.2l.4-1.2h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,1.1,1.1L17.=
-64,8a2,2,0,0,0,1.16,2.79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm0,6a2,2,=
-0,1,1,2-2A2,2,0,0,1,12,14Z"></path></svg></div></a><a class=3D"pointer" rol=
-e=3D"button" aria-label=3D"Delete row"><div class=3D"css-wf08df-Icon"><svg =
-xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" hei=
-ght=3D"16" class=3D"css-eyx4do"><path d=3D"M10,18a1,1,0,0,0,1-1V11a1,1,0,0,=
-0-2,0v6A1,1,0,0,0,10,18ZM20,6H16V5a3,3,0,0,0-3-3H11A3,3,0,0,0,8,5V6H4A1,1,0=
-,0,0,4,8H5V19a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V8h1a1,1,0,0,0,0-2ZM10,5a1,1,0,0=
-,1,1-1h2a1,1,0,0,1,1,1V6H10Zm7,14a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V8H17Zm-3-1a=
-1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,14,18Z"></path></svg></div></a><=
-/div><div class=3D"dashboard-row__toggle-target">&nbsp;</div><div data-test=
-id=3D"dashboard-row-drag" class=3D"dashboard-row__drag grid-drag-handle"></=
-div></div><span class=3D"react-resizable-handle react-resizable-handle-se">=
-</span></div><div class=3D"react-grid-item react-draggable react-resizable-=
-hide react-resizable" data-panelid=3D"269" style=3D"top: 874px; left: 0px; =
-width: 1351px; height: 30px; position: absolute;"><div class=3D"dashboard-r=
-ow dashboard-row--collapsed" data-testid=3D"dashboard-row-container"><a cla=
-ss=3D"dashboard-row__title pointer" data-testid=3D"data-testid dashboard-ro=
-w-title-Main document timings"><div class=3D"css-wf08df-Icon"><svg xmlns=3D=
-"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"1=
-6" class=3D"css-eyx4do"><path d=3D"M14.83,11.29,10.59,7.05a1,1,0,0,0-1.42,0=
-,1,1,0,0,0,0,1.41L12.71,12,9.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1=
-,0,0,0,.71-.29l4.24-4.24A1,1,0,0,0,14.83,11.29Z"></path></svg></div>Main do=
-cument timings<span class=3D"dashboard-row__panel_count">(1 panel)</span></=
-a><div class=3D"dashboard-row__actions"><a class=3D"pointer" role=3D"button=
-" aria-label=3D"Row options"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"h=
-ttp://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16"=
- class=3D"css-eyx4do"><path d=3D"M21.32,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20=
-.13,6L18,3.87a1,1,0,0,0-1.15-.19l-1.78.89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,=
-0,0,0-.95.68L8.92,4.57,7.14,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15=
-l.89,1.78-1.89.63A1,1,0,0,0,2,10.5v3a1,1,0,0,0,.68.95l1.89.63-.89,1.78A1,1,=
-0,0,0,3.87,18L6,20.13a1,1,0,0,0,1.15.19l1.78-.89.63,1.89a1,1,0,0,0,.95.68h3=
-a1,1,0,0,0,.95-.68l.63-1.89,1.78.89A1,1,0,0,0,18,20.13L20.13,18a1,1,0,0,0,.=
-19-1.15l-.89-1.78,1.89-.63A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21.32,9.55ZM20,12=
-.78l-1.2.4A2,2,0,0,0,17.64,16l.57,1.14-1.1,1.1L16,17.64a2,2,0,0,0-2.79,1.16=
-l-.4,1.2H11.22l-.4-1.2A2,2,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.36,16A2,2,0,0,0=
-,5.2,13.18L4,12.78V11.22l1.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1.1-1.1L8,6.36A2=
-,2,0,0,0,10.82,5.2l.4-1.2h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,1.1,1.1L17=
-.64,8a2,2,0,0,0,1.16,2.79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm0,6a2,2=
-,0,1,1,2-2A2,2,0,0,1,12,14Z"></path></svg></div></a><a class=3D"pointer" ro=
-le=3D"button" aria-label=3D"Delete row"><div class=3D"css-wf08df-Icon"><svg=
- xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" he=
-ight=3D"16" class=3D"css-eyx4do"><path d=3D"M10,18a1,1,0,0,0,1-1V11a1,1,0,0=
-,0-2,0v6A1,1,0,0,0,10,18ZM20,6H16V5a3,3,0,0,0-3-3H11A3,3,0,0,0,8,5V6H4A1,1,=
-0,0,0,4,8H5V19a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V8h1a1,1,0,0,0,0-2ZM10,5a1,1,0,=
-0,1,1-1h2a1,1,0,0,1,1,1V6H10Zm7,14a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V8H17Zm-3-1=
-a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,14,18Z"></path></svg></div></a>=
-</div><div class=3D"dashboard-row__toggle-target">&nbsp;</div><div data-tes=
-tid=3D"dashboard-row-drag" class=3D"dashboard-row__drag grid-drag-handle"><=
-/div></div><span class=3D"react-resizable-handle react-resizable-handle-se"=
-></span></div><div class=3D"react-grid-item react-draggable react-resizable=
--hide react-resizable" data-panelid=3D"234" style=3D"top: 912px; left: 0px;=
- width: 1351px; height: 30px; position: absolute;"><div class=3D"dashboard-=
-row dashboard-row--collapsed" data-testid=3D"dashboard-row-container"><a cl=
-ass=3D"dashboard-row__title pointer" data-testid=3D"data-testid dashboard-r=
-ow-title-Cookies"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w=
-3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"c=
-ss-eyx4do"><path d=3D"M14.83,11.29,10.59,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,=
-1.41L12.71,12,9.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.2=
-9l4.24-4.24A1,1,0,0,0,14.83,11.29Z"></path></svg></div>Cookies<span class=
-=3D"dashboard-row__panel_count">(1 panel)</span></a><div class=3D"dashboard=
--row__actions"><a class=3D"pointer" role=3D"button" aria-label=3D"Row optio=
-ns"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg=
-" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><pa=
-th d=3D"M21.32,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20.13,6L18,3.87a1,1,0,0,0-1=
-.15-.19l-1.78.89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,0,0,0-.95.68L8.92,4.57,7.=
-14,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15l.89,1.78-1.89.63A1,1,0,0=
-,0,2,10.5v3a1,1,0,0,0,.68.95l1.89.63-.89,1.78A1,1,0,0,0,3.87,18L6,20.13a1,1=
-,0,0,0,1.15.19l1.78-.89.63,1.89a1,1,0,0,0,.95.68h3a1,1,0,0,0,.95-.68l.63-1.=
-89,1.78.89A1,1,0,0,0,18,20.13L20.13,18a1,1,0,0,0,.19-1.15l-.89-1.78,1.89-.6=
-3A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21.32,9.55ZM20,12.78l-1.2.4A2,2,0,0,0,17.6=
-4,16l.57,1.14-1.1,1.1L16,17.64a2,2,0,0,0-2.79,1.16l-.4,1.2H11.22l-.4-1.2A2,=
-2,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.36,16A2,2,0,0,0,5.2,13.18L4,12.78V11.22l=
-1.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1.1-1.1L8,6.36A2,2,0,0,0,10.82,5.2l.4-1.2=
-h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,1.1,1.1L17.64,8a2,2,0,0,0,1.16,2.79=
-l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm0,6a2,2,0,1,1,2-2A2,2,0,0,1,12,1=
-4Z"></path></svg></div></a><a class=3D"pointer" role=3D"button" aria-label=
+"><path d=3D"M14.83,11.29,10.59,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.41L12.7=
+1,12,9.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4.24-4.=
+24A1,1,0,0,0,14.83,11.29Z"></path></svg></div>Page statistics<span class=3D=
+"dashboard-row__panel_count">(11 panels)</span></a><div class=3D"dashboard-=
+row__actions"><a class=3D"pointer" role=3D"button" aria-label=3D"Row option=
+s"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg"=
+ viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><pat=
+h d=3D"M21.32,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20.13,6L18,3.87a1,1,0,0,0-1.=
+15-.19l-1.78.89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,0,0,0-.95.68L8.92,4.57,7.1=
+4,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15l.89,1.78-1.89.63A1,1,0,0,=
+0,2,10.5v3a1,1,0,0,0,.68.95l1.89.63-.89,1.78A1,1,0,0,0,3.87,18L6,20.13a1,1,=
+0,0,0,1.15.19l1.78-.89.63,1.89a1,1,0,0,0,.95.68h3a1,1,0,0,0,.95-.68l.63-1.8=
+9,1.78.89A1,1,0,0,0,18,20.13L20.13,18a1,1,0,0,0,.19-1.15l-.89-1.78,1.89-.63=
+A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21.32,9.55ZM20,12.78l-1.2.4A2,2,0,0,0,17.64=
+,16l.57,1.14-1.1,1.1L16,17.64a2,2,0,0,0-2.79,1.16l-.4,1.2H11.22l-.4-1.2A2,2=
+,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.36,16A2,2,0,0,0,5.2,13.18L4,12.78V11.22l1=
+.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1.1-1.1L8,6.36A2,2,0,0,0,10.82,5.2l.4-1.2h=
+1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,1.1,1.1L17.64,8a2,2,0,0,0,1.16,2.79l=
+1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm0,6a2,2,0,1,1,2-2A2,2,0,0,1,12,14=
+Z"></path></svg></div></a><a class=3D"pointer" role=3D"button" aria-label=
 =3D"Delete row"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.=
 org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css=
 -eyx4do"><path d=3D"M10,18a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,10,18=
@@ -1167,56 +1032,56 @@ board-row__toggle-target">&nbsp;</div><div data-testid=3D"dashboard-row-dra=
 g" class=3D"dashboard-row__drag grid-drag-handle"></div></div><span class=
 =3D"react-resizable-handle react-resizable-handle-se"></span></div><div cla=
 ss=3D"react-grid-item react-draggable react-resizable-hide react-resizable"=
- data-panelid=3D"96" style=3D"top: 950px; left: 0px; width: 1351px; height:=
- 30px; position: absolute;"><div class=3D"dashboard-row dashboard-row--coll=
-apsed" data-testid=3D"dashboard-row-container"><a class=3D"dashboard-row__t=
-itle pointer" data-testid=3D"data-testid dashboard-row-title-CPU Details [C=
-hrome only]"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org=
-/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-ey=
-x4do"><path d=3D"M14.83,11.29,10.59,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.41L=
-12.71,12,9.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4.2=
-4-4.24A1,1,0,0,0,14.83,11.29Z"></path></svg></div>CPU Details [Chrome only]=
-<span class=3D"dashboard-row__panel_count">(2 panels)</span></a><div class=
-=3D"dashboard-row__actions"><a class=3D"pointer" role=3D"button" aria-label=
-=3D"Row options"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3=
-.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"cs=
-s-eyx4do"><path d=3D"M21.32,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20.13,6L18,3.8=
-7a1,1,0,0,0-1.15-.19l-1.78.89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,0,0,0-.95.68=
-L8.92,4.57,7.14,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15l.89,1.78-1.=
-89.63A1,1,0,0,0,2,10.5v3a1,1,0,0,0,.68.95l1.89.63-.89,1.78A1,1,0,0,0,3.87,1=
-8L6,20.13a1,1,0,0,0,1.15.19l1.78-.89.63,1.89a1,1,0,0,0,.95.68h3a1,1,0,0,0,.=
-95-.68l.63-1.89,1.78.89A1,1,0,0,0,18,20.13L20.13,18a1,1,0,0,0,.19-1.15l-.89=
--1.78,1.89-.63A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21.32,9.55ZM20,12.78l-1.2.4A2=
-,2,0,0,0,17.64,16l.57,1.14-1.1,1.1L16,17.64a2,2,0,0,0-2.79,1.16l-.4,1.2H11.=
-22l-.4-1.2A2,2,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.36,16A2,2,0,0,0,5.2,13.18L4=
-,12.78V11.22l1.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1.1-1.1L8,6.36A2,2,0,0,0,10.=
-82,5.2l.4-1.2h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,1.1,1.1L17.64,8a2,2,0,=
-0,0,1.16,2.79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm0,6a2,2,0,1,1,2-2A2=
-,2,0,0,1,12,14Z"></path></svg></div></a><a class=3D"pointer" role=3D"button=
-" aria-label=3D"Delete row"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"ht=
-tp://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" =
-class=3D"css-eyx4do"><path d=3D"M10,18a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1=
-,0,0,0,10,18ZM20,6H16V5a3,3,0,0,0-3-3H11A3,3,0,0,0,8,5V6H4A1,1,0,0,0,4,8H5V=
-19a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V8h1a1,1,0,0,0,0-2ZM10,5a1,1,0,0,1,1-1h2a1,=
-1,0,0,1,1,1V6H10Zm7,14a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V8H17Zm-3-1a1,1,0,0,0,1=
--1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,14,18Z"></path></svg></div></a></div><div c=
-lass=3D"dashboard-row__toggle-target">&nbsp;</div><div data-testid=3D"dashb=
-oard-row-drag" class=3D"dashboard-row__drag grid-drag-handle"></div></div><=
-span class=3D"react-resizable-handle react-resizable-handle-se"></span></di=
-v><div class=3D"react-grid-item react-draggable react-resizable-hide react-=
-resizable" data-panelid=3D"136" style=3D"top: 988px; left: 0px; width: 1351=
-px; height: 30px; position: absolute;"><div class=3D"dashboard-row dashboar=
-d-row--collapsed" data-testid=3D"dashboard-row-container"><a class=3D"dashb=
-oard-row__title pointer" data-testid=3D"data-testid dashboard-row-title-Thi=
-rd party"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/20=
-00/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4d=
-o"><path d=3D"M14.83,11.29,10.59,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.41L12.=
-71,12,9.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4.24-4=
-.24A1,1,0,0,0,14.83,11.29Z"></path></svg></div>Third party<span class=3D"da=
-shboard-row__panel_count">(3 panels)</span></a><div class=3D"dashboard-row_=
-_actions"><a class=3D"pointer" role=3D"button" aria-label=3D"Row options"><=
-div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" vie=
-wBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=
+ data-panelid=3D"223" style=3D"top: 836px; left: 0px; width: 1351px; height=
+: 30px; position: absolute;"><div class=3D"dashboard-row dashboard-row--col=
+lapsed" data-testid=3D"dashboard-row-container"><a class=3D"dashboard-row__=
+title pointer" data-testid=3D"data-testid dashboard-row-title-CPU Long Task=
+s"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg"=
+ viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><pat=
+h d=3D"M14.83,11.29,10.59,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.41L12.71,12,9=
+.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4.24-4.24A1,1=
+,0,0,0,14.83,11.29Z"></path></svg></div>CPU Long Tasks<span class=3D"dashbo=
+ard-row__panel_count">(8 panels)</span></a><div class=3D"dashboard-row__act=
+ions"><a class=3D"pointer" role=3D"button" aria-label=3D"Row options"><div =
+class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=
+=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M=
+21.32,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20.13,6L18,3.87a1,1,0,0,0-1.15-.19l-=
+1.78.89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,0,0,0-.95.68L8.92,4.57,7.14,3.68A1=
+,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15l.89,1.78-1.89.63A1,1,0,0,0,2,10.5=
+v3a1,1,0,0,0,.68.95l1.89.63-.89,1.78A1,1,0,0,0,3.87,18L6,20.13a1,1,0,0,0,1.=
+15.19l1.78-.89.63,1.89a1,1,0,0,0,.95.68h3a1,1,0,0,0,.95-.68l.63-1.89,1.78.8=
+9A1,1,0,0,0,18,20.13L20.13,18a1,1,0,0,0,.19-1.15l-.89-1.78,1.89-.63A1,1,0,0=
+,0,22,13.5v-3A1,1,0,0,0,21.32,9.55ZM20,12.78l-1.2.4A2,2,0,0,0,17.64,16l.57,=
+1.14-1.1,1.1L16,17.64a2,2,0,0,0-2.79,1.16l-.4,1.2H11.22l-.4-1.2A2,2,0,0,0,8=
+,17.64l-1.14.57-1.1-1.1L6.36,16A2,2,0,0,0,5.2,13.18L4,12.78V11.22l1.2-.4A2,=
+2,0,0,0,6.36,8L5.79,6.89l1.1-1.1L8,6.36A2,2,0,0,0,10.82,5.2l.4-1.2h1.56l.4,=
+1.2A2,2,0,0,0,16,6.36l1.14-.57,1.1,1.1L17.64,8a2,2,0,0,0,1.16,2.79l1.2.4ZM1=
+2,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm0,6a2,2,0,1,1,2-2A2,2,0,0,1,12,14Z"></pat=
+h></svg></div></a><a class=3D"pointer" role=3D"button" aria-label=3D"Delete=
+ row"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/s=
+vg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><=
+path d=3D"M10,18a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,10,18ZM20,6H16V=
+5a3,3,0,0,0-3-3H11A3,3,0,0,0,8,5V6H4A1,1,0,0,0,4,8H5V19a3,3,0,0,0,3,3h8a3,3=
+,0,0,0,3-3V8h1a1,1,0,0,0,0-2ZM10,5a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1V6H10Zm7,14=
+a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V8H17Zm-3-1a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A=
+1,1,0,0,0,14,18Z"></path></svg></div></a></div><div class=3D"dashboard-row_=
+_toggle-target">&nbsp;</div><div data-testid=3D"dashboard-row-drag" class=
+=3D"dashboard-row__drag grid-drag-handle"></div></div><span class=3D"react-=
+resizable-handle react-resizable-handle-se"></span></div><div class=3D"reac=
+t-grid-item react-draggable react-resizable-hide react-resizable" data-pane=
+lid=3D"269" style=3D"top: 874px; left: 0px; width: 1351px; height: 30px; po=
+sition: absolute;"><div class=3D"dashboard-row dashboard-row--collapsed" da=
+ta-testid=3D"dashboard-row-container"><a class=3D"dashboard-row__title poin=
+ter" data-testid=3D"data-testid dashboard-row-title-Main document timings">=
+<div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" vi=
+ewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=
+=3D"M14.83,11.29,10.59,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.41L12.71,12,9.17=
+,15.54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4.24-4.24A1,1,0,=
+0,0,14.83,11.29Z"></path></svg></div>Main document timings<span class=3D"da=
+shboard-row__panel_count">(1 panel)</span></a><div class=3D"dashboard-row__=
+actions"><a class=3D"pointer" role=3D"button" aria-label=3D"Row options"><d=
+iv class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" view=
+Box=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=
 =3D"M21.32,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20.13,6L18,3.87a1,1,0,0,0-1.15-=
 .19l-1.78.89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,0,0,0-.95.68L8.92,4.57,7.14,3=
 .68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15l.89,1.78-1.89.63A1,1,0,0,0,2=
@@ -1241,90 +1106,244 @@ m7,14a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V8H17Zm-3-1a1,1,0,0,0,1-1V11a1,1,0,0,0-2=
 ass=3D"dashboard-row__drag grid-drag-handle"></div></div><span class=3D"rea=
 ct-resizable-handle react-resizable-handle-se"></span></div><div class=3D"r=
 eact-grid-item react-draggable react-resizable-hide react-resizable" data-p=
-anelid=3D"140" style=3D"top: 1026px; left: 0px; width: 1351px; height: 30px=
-; position: absolute;"><div class=3D"dashboard-row dashboard-row--collapsed=
-" data-testid=3D"dashboard-row-container"><a class=3D"dashboard-row__title =
-pointer" data-testid=3D"data-testid dashboard-row-title-JavaScript heap [Ch=
-rome only]"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/=
-2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx=
-4do"><path d=3D"M14.83,11.29,10.59,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.41L1=
-2.71,12,9.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4.24=
--4.24A1,1,0,0,0,14.83,11.29Z"></path></svg></div>JavaScript heap [Chrome on=
-ly]<span class=3D"dashboard-row__panel_count">(1 panel)</span></a><div clas=
-s=3D"dashboard-row__actions"><a class=3D"pointer" role=3D"button" aria-labe=
-l=3D"Row options"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w=
-3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"c=
-ss-eyx4do"><path d=3D"M21.32,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20.13,6L18,3.=
-87a1,1,0,0,0-1.15-.19l-1.78.89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,0,0,0-.95.6=
-8L8.92,4.57,7.14,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15l.89,1.78-1=
-.89.63A1,1,0,0,0,2,10.5v3a1,1,0,0,0,.68.95l1.89.63-.89,1.78A1,1,0,0,0,3.87,=
-18L6,20.13a1,1,0,0,0,1.15.19l1.78-.89.63,1.89a1,1,0,0,0,.95.68h3a1,1,0,0,0,=
-.95-.68l.63-1.89,1.78.89A1,1,0,0,0,18,20.13L20.13,18a1,1,0,0,0,.19-1.15l-.8=
-9-1.78,1.89-.63A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21.32,9.55ZM20,12.78l-1.2.4A=
-2,2,0,0,0,17.64,16l.57,1.14-1.1,1.1L16,17.64a2,2,0,0,0-2.79,1.16l-.4,1.2H11=
-.22l-.4-1.2A2,2,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.36,16A2,2,0,0,0,5.2,13.18L=
-4,12.78V11.22l1.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1.1-1.1L8,6.36A2,2,0,0,0,10=
-.82,5.2l.4-1.2h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,1.1,1.1L17.64,8a2,2,0=
-,0,0,1.16,2.79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm0,6a2,2,0,1,1,2-2A=
-2,2,0,0,1,12,14Z"></path></svg></div></a><a class=3D"pointer" role=3D"butto=
-n" aria-label=3D"Delete row"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"h=
-ttp://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16"=
- class=3D"css-eyx4do"><path d=3D"M10,18a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,=
-1,0,0,0,10,18ZM20,6H16V5a3,3,0,0,0-3-3H11A3,3,0,0,0,8,5V6H4A1,1,0,0,0,4,8H5=
-V19a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V8h1a1,1,0,0,0,0-2ZM10,5a1,1,0,0,1,1-1h2a1=
-,1,0,0,1,1,1V6H10Zm7,14a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V8H17Zm-3-1a1,1,0,0,0,=
-1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,14,18Z"></path></svg></div></a></div><div =
-class=3D"dashboard-row__toggle-target">&nbsp;</div><div data-testid=3D"dash=
-board-row-drag" class=3D"dashboard-row__drag grid-drag-handle"></div></div>=
-<span class=3D"react-resizable-handle react-resizable-handle-se"></span></d=
-iv><div class=3D"react-grid-item react-draggable react-resizable-hide react=
--resizable" data-panelid=3D"176" style=3D"top: 1064px; left: 0px; width: 13=
-51px; height: 30px; position: absolute;"><div class=3D"dashboard-row dashbo=
-ard-row--collapsed" data-testid=3D"dashboard-row-container"><a class=3D"das=
-hboard-row__title pointer" data-testid=3D"data-testid dashboard-row-title-R=
-esponse codes"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.o=
+anelid=3D"234" style=3D"top: 912px; left: 0px; width: 1351px; height: 30px;=
+ position: absolute;"><div class=3D"dashboard-row dashboard-row--collapsed"=
+ data-testid=3D"dashboard-row-container"><a class=3D"dashboard-row__title p=
+ointer" data-testid=3D"data-testid dashboard-row-title-Cookies"><div class=
+=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0=
+ 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M14.83=
+,11.29,10.59,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.41L12.71,12,9.17,15.54a1,1=
+,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4.24-4.24A1,1,0,0,0,14.83,=
+11.29Z"></path></svg></div>Cookies<span class=3D"dashboard-row__panel_count=
+">(1 panel)</span></a><div class=3D"dashboard-row__actions"><a class=3D"poi=
+nter" role=3D"button" aria-label=3D"Row options"><div class=3D"css-wf08df-I=
+con"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=
+=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M21.32,9.55l-1.89-.63=
+.89-1.78A1,1,0,0,0,20.13,6L18,3.87a1,1,0,0,0-1.15-.19l-1.78.89-.63-1.89A1,1=
+,0,0,0,13.5,2h-3a1,1,0,0,0-.95.68L8.92,4.57,7.14,3.68A1,1,0,0,0,6,3.87L3.87=
+,6a1,1,0,0,0-.19,1.15l.89,1.78-1.89.63A1,1,0,0,0,2,10.5v3a1,1,0,0,0,.68.95l=
+1.89.63-.89,1.78A1,1,0,0,0,3.87,18L6,20.13a1,1,0,0,0,1.15.19l1.78-.89.63,1.=
+89a1,1,0,0,0,.95.68h3a1,1,0,0,0,.95-.68l.63-1.89,1.78.89A1,1,0,0,0,18,20.13=
+L20.13,18a1,1,0,0,0,.19-1.15l-.89-1.78,1.89-.63A1,1,0,0,0,22,13.5v-3A1,1,0,=
+0,0,21.32,9.55ZM20,12.78l-1.2.4A2,2,0,0,0,17.64,16l.57,1.14-1.1,1.1L16,17.6=
+4a2,2,0,0,0-2.79,1.16l-.4,1.2H11.22l-.4-1.2A2,2,0,0,0,8,17.64l-1.14.57-1.1-=
+1.1L6.36,16A2,2,0,0,0,5.2,13.18L4,12.78V11.22l1.2-.4A2,2,0,0,0,6.36,8L5.79,=
+6.89l1.1-1.1L8,6.36A2,2,0,0,0,10.82,5.2l.4-1.2h1.56l.4,1.2A2,2,0,0,0,16,6.3=
+6l1.14-.57,1.1,1.1L17.64,8a2,2,0,0,0,1.16,2.79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,=
+4,0,0,0,12,8Zm0,6a2,2,0,1,1,2-2A2,2,0,0,1,12,14Z"></path></svg></div></a><a=
+ class=3D"pointer" role=3D"button" aria-label=3D"Delete row"><div class=3D"=
+css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 2=
+4 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M10,18a1,1=
+,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,10,18ZM20,6H16V5a3,3,0,0,0-3-3H11A3=
+,3,0,0,0,8,5V6H4A1,1,0,0,0,4,8H5V19a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V8h1a1,1,0=
+,0,0,0-2ZM10,5a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1V6H10Zm7,14a1,1,0,0,1-1,1H8a1,1=
+,0,0,1-1-1V8H17Zm-3-1a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,14,18Z"></=
+path></svg></div></a></div><div class=3D"dashboard-row__toggle-target">&nbs=
+p;</div><div data-testid=3D"dashboard-row-drag" class=3D"dashboard-row__dra=
+g grid-drag-handle"></div></div><span class=3D"react-resizable-handle react=
+-resizable-handle-se"></span></div><div class=3D"react-grid-item react-resi=
+zable-hide react-resizable" data-panelid=3D"96" style=3D"top: 950px; left: =
+0px; width: 1351px; height: 30px; position: absolute;"><div class=3D"dashbo=
+ard-row" data-testid=3D"dashboard-row-container"><a class=3D"dashboard-row_=
+_title pointer" data-testid=3D"data-testid dashboard-row-title-CPU Details =
+[Chrome only]"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.o=
 rg/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-=
-eyx4do"><path d=3D"M14.83,11.29,10.59,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.4=
-1L12.71,12,9.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4=
-.24-4.24A1,1,0,0,0,14.83,11.29Z"></path></svg></div>Response codes<span cla=
-ss=3D"dashboard-row__panel_count">(1 panel)</span></a><div class=3D"dashboa=
-rd-row__actions"><a class=3D"pointer" role=3D"button" aria-label=3D"Row opt=
-ions"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/s=
-vg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><=
-path d=3D"M21.32,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20.13,6L18,3.87a1,1,0,0,0=
--1.15-.19l-1.78.89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,0,0,0-.95.68L8.92,4.57,=
-7.14,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15l.89,1.78-1.89.63A1,1,0=
-,0,0,2,10.5v3a1,1,0,0,0,.68.95l1.89.63-.89,1.78A1,1,0,0,0,3.87,18L6,20.13a1=
-,1,0,0,0,1.15.19l1.78-.89.63,1.89a1,1,0,0,0,.95.68h3a1,1,0,0,0,.95-.68l.63-=
-1.89,1.78.89A1,1,0,0,0,18,20.13L20.13,18a1,1,0,0,0,.19-1.15l-.89-1.78,1.89-=
-.63A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21.32,9.55ZM20,12.78l-1.2.4A2,2,0,0,0,17=
-.64,16l.57,1.14-1.1,1.1L16,17.64a2,2,0,0,0-2.79,1.16l-.4,1.2H11.22l-.4-1.2A=
-2,2,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.36,16A2,2,0,0,0,5.2,13.18L4,12.78V11.2=
-2l1.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1.1-1.1L8,6.36A2,2,0,0,0,10.82,5.2l.4-1=
-.2h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,1.1,1.1L17.64,8a2,2,0,0,0,1.16,2.=
-79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm0,6a2,2,0,1,1,2-2A2,2,0,0,1,12=
-,14Z"></path></svg></div></a><a class=3D"pointer" role=3D"button" aria-labe=
-l=3D"Delete row"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3=
-.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"cs=
-s-eyx4do"><path d=3D"M10,18a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,10,1=
-8ZM20,6H16V5a3,3,0,0,0-3-3H11A3,3,0,0,0,8,5V6H4A1,1,0,0,0,4,8H5V19a3,3,0,0,=
-0,3,3h8a3,3,0,0,0,3-3V8h1a1,1,0,0,0,0-2ZM10,5a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1=
-V6H10Zm7,14a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V8H17Zm-3-1a1,1,0,0,0,1-1V11a1,1,0=
-,0,0-2,0v6A1,1,0,0,0,14,18Z"></path></svg></div></a></div><div class=3D"das=
-hboard-row__toggle-target">&nbsp;</div><div data-testid=3D"dashboard-row-dr=
-ag" class=3D"dashboard-row__drag grid-drag-handle"></div></div><span class=
-=3D"react-resizable-handle react-resizable-handle-se"></span></div><div cla=
-ss=3D"react-grid-item react-draggable react-resizable-hide react-resizable"=
- data-panelid=3D"172" style=3D"top: 1102px; left: 0px; width: 1351px; heigh=
-t: 30px; position: absolute;"><div class=3D"dashboard-row dashboard-row--co=
-llapsed" data-testid=3D"dashboard-row-container"><a class=3D"dashboard-row_=
-_title pointer" data-testid=3D"data-testid dashboard-row-title-Errors"><div=
- class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBo=
-x=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"=
-M14.83,11.29,10.59,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.41L12.71,12,9.17,15.=
-54a1,1,0,0,0,0,1.41,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4.24-4.24A1,1,0,0,0,=
-14.83,11.29Z"></path></svg></div>Errors<span class=3D"dashboard-row__panel_=
-count">(2 panels)</span></a><div class=3D"dashboard-row__actions"><a class=
+eyx4do"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1=
+.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.1=
+7Z"></path></svg></div>CPU Details [Chrome only]<span class=3D"dashboard-ro=
+w__panel_count">(0 panels)</span></a><div class=3D"dashboard-row__actions">=
+<a class=3D"pointer" role=3D"button" aria-label=3D"Row options"><div class=
+=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0=
+ 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M21.32=
+,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20.13,6L18,3.87a1,1,0,0,0-1.15-.19l-1.78.=
+89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,0,0,0-.95.68L8.92,4.57,7.14,3.68A1,1,0,=
+0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15l.89,1.78-1.89.63A1,1,0,0,0,2,10.5v3a1,=
+1,0,0,0,.68.95l1.89.63-.89,1.78A1,1,0,0,0,3.87,18L6,20.13a1,1,0,0,0,1.15.19=
+l1.78-.89.63,1.89a1,1,0,0,0,.95.68h3a1,1,0,0,0,.95-.68l.63-1.89,1.78.89A1,1=
+,0,0,0,18,20.13L20.13,18a1,1,0,0,0,.19-1.15l-.89-1.78,1.89-.63A1,1,0,0,0,22=
+,13.5v-3A1,1,0,0,0,21.32,9.55ZM20,12.78l-1.2.4A2,2,0,0,0,17.64,16l.57,1.14-=
+1.1,1.1L16,17.64a2,2,0,0,0-2.79,1.16l-.4,1.2H11.22l-.4-1.2A2,2,0,0,0,8,17.6=
+4l-1.14.57-1.1-1.1L6.36,16A2,2,0,0,0,5.2,13.18L4,12.78V11.22l1.2-.4A2,2,0,0=
+,0,6.36,8L5.79,6.89l1.1-1.1L8,6.36A2,2,0,0,0,10.82,5.2l.4-1.2h1.56l.4,1.2A2=
+,2,0,0,0,16,6.36l1.14-.57,1.1,1.1L17.64,8a2,2,0,0,0,1.16,2.79l1.2.4ZM12,8a4=
+,4,0,1,0,4,4A4,4,0,0,0,12,8Zm0,6a2,2,0,1,1,2-2A2,2,0,0,1,12,14Z"></path></s=
+vg></div></a><a class=3D"pointer" role=3D"button" aria-label=3D"Delete row"=
+><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" v=
+iewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><path =
+d=3D"M10,18a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,10,18ZM20,6H16V5a3,3=
+,0,0,0-3-3H11A3,3,0,0,0,8,5V6H4A1,1,0,0,0,4,8H5V19a3,3,0,0,0,3,3h8a3,3,0,0,=
+0,3-3V8h1a1,1,0,0,0,0-2ZM10,5a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1V6H10Zm7,14a1,1,=
+0,0,1-1,1H8a1,1,0,0,1-1-1V8H17Zm-3-1a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0=
+,0,0,14,18Z"></path></svg></div></a></div><div data-testid=3D"dashboard-row=
+-drag" class=3D"dashboard-row__drag grid-drag-handle"></div></div><span cla=
+ss=3D"react-resizable-handle react-resizable-handle-se"></span></div><div c=
+lass=3D"react-grid-item react-draggable react-resizable" data-panelid=3D"81=
+" style=3D"top: 988px; left: 0px; width: 1351px; height: 562px; position: a=
+bsolute;"><div id=3D"28" style=3D"width: 1351px; height: 562px;"><section c=
+lass=3D"panel-container" aria-label=3D"CPU [Chrome only] panel"><div class=
+=3D"panel-header grid-drag-handle"><header data-testid=3D"data-testid Panel=
+ header CPU [Chrome only]" class=3D"panel-title-container"><div><div class=
+=3D"panel-title"><h2 class=3D"css-1m35bcr">CPU [Chrome only]</h2><div data-=
+testid=3D"panel-dropdown"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http=
+://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" cl=
+ass=3D"css-eyx4do panel-menu-toggle"><path d=3D"M17,9.17a1,1,0,0,0-1.41,0L1=
+2,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l4.24,4.24a1,1,0,0,0,1.4=
+2,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div></div></div></div></hea=
+der></div><div class=3D"panel-content"><div style=3D"position: relative;"><=
+div style=3D"position: absolute; left: 0px; top: 0px; width: 327.25px; heig=
+ht: 252px;"><div style=3D"width: 100%; height: 100%; display: flex; flex-di=
+rection: column; justify-content: center; overflow: hidden;"><div style=3D"=
+height: 222px; width: 100%; position: relative;"><canvas class=3D"flot-base=
+" width=3D"654" height=3D"444" style=3D"direction: ltr; position: absolute;=
+ left: 0px; top: 0px; width: 327.25px; height: 222px;"></canvas><canvas cla=
+ss=3D"flot-overlay" width=3D"654" height=3D"444" style=3D"direction: ltr; p=
+osition: absolute; left: 0px; top: 0px; width: 327.25px; height: 222px;"></=
+canvas><span id=3D"flotGaugeValue0" class=3D"flot-temp-elem" style=3D"posit=
+ion: absolute; top: 139.347px; white-space: nowrap; font-size: 52.9125px; f=
+ont-family: Roboto, Helvetica, Arial, sans-serif; color: rgb(115, 191, 105)=
+; left: 89.289px;">74 ms</span></div><div style=3D"text-align: center; font=
+-size: 20px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap=
+; position: relative; width: 100%; top: -4px; cursor: default;">garbageColl=
+ection</div></div></div><div style=3D"position: absolute; left: 335.25px; t=
+op: 0px; width: 327.25px; height: 252px;"><div style=3D"width: 100%; height=
+: 100%; display: flex; flex-direction: column; justify-content: center; ove=
+rflow: hidden;"><div style=3D"height: 222px; width: 100%; position: relativ=
+e;"><canvas class=3D"flot-base" width=3D"654" height=3D"444" style=3D"direc=
+tion: ltr; position: absolute; left: 0px; top: 0px; width: 327.25px; height=
+: 222px;"></canvas><canvas class=3D"flot-overlay" width=3D"654" height=3D"4=
+44" style=3D"direction: ltr; position: absolute; left: 0px; top: 0px; width=
+: 327.25px; height: 222px;"></canvas><span id=3D"flotGaugeValue0" class=3D"=
+flot-temp-elem" style=3D"position: absolute; top: 143.632px; white-space: n=
+owrap; font-size: 44.3428px; font-family: Roboto, Helvetica, Arial, sans-se=
+rif; color: rgb(242, 73, 92); left: 88.492px;">582 ms</span></div><div styl=
+e=3D"text-align: center; font-size: 20px; overflow: hidden; text-overflow: =
+ellipsis; white-space: nowrap; position: relative; width: 100%; top: -4px; =
+cursor: default;">other</div></div></div><div style=3D"position: absolute; =
+left: 670.5px; top: 0px; width: 327.25px; height: 252px;"><div style=3D"wid=
+th: 100%; height: 100%; display: flex; flex-direction: column; justify-cont=
+ent: center; overflow: hidden;"><div style=3D"height: 222px; width: 100%; p=
+osition: relative;"><canvas class=3D"flot-base" width=3D"654" height=3D"444=
+" style=3D"direction: ltr; position: absolute; left: 0px; top: 0px; width: =
+327.25px; height: 222px;"></canvas><canvas class=3D"flot-overlay" width=3D"=
+654" height=3D"444" style=3D"direction: ltr; position: absolute; left: 0px;=
+ top: 0px; width: 327.25px; height: 222px;"></canvas><span id=3D"flotGaugeV=
+alue0" class=3D"flot-temp-elem" style=3D"position: absolute; top: 143.632px=
+; white-space: nowrap; font-size: 44.3428px; font-family: Roboto, Helvetica=
+, Arial, sans-serif; color: rgb(242, 73, 92); left: 88.492px;">385 ms</span=
+></div><div style=3D"text-align: center; font-size: 20px; overflow: hidden;=
+ text-overflow: ellipsis; white-space: nowrap; position: relative; width: 1=
+00%; top: -4px; cursor: default;">paintCompositeRender</div></div></div><di=
+v style=3D"position: absolute; left: 1005.75px; top: 0px; width: 327.25px; =
+height: 252px;"><div style=3D"width: 100%; height: 100%; display: flex; fle=
+x-direction: column; justify-content: center; overflow: hidden;"><div style=
+=3D"height: 222px; width: 100%; position: relative;"><canvas class=3D"flot-=
+base" width=3D"654" height=3D"444" style=3D"direction: ltr; position: absol=
+ute; left: 0px; top: 0px; width: 327.25px; height: 222px;"></canvas><canvas=
+ class=3D"flot-overlay" width=3D"654" height=3D"444" style=3D"direction: lt=
+r; position: absolute; left: 0px; top: 0px; width: 327.25px; height: 222px;=
+"></canvas><span id=3D"flotGaugeValue0" class=3D"flot-temp-elem" style=3D"p=
+osition: absolute; top: 139.347px; white-space: nowrap; font-size: 52.9125p=
+x; font-family: Roboto, Helvetica, Arial, sans-serif; color: rgb(242, 73, 9=
+2); left: 89.289px;">85 ms</span></div><div style=3D"text-align: center; fo=
+nt-size: 20px; overflow: hidden; text-overflow: ellipsis; white-space: nowr=
+ap; position: relative; width: 100%; top: -4px; cursor: default;">parseHTML=
+</div></div></div><div style=3D"position: absolute; left: 0px; top: 260px; =
+width: 439px; height: 252px;"><div style=3D"width: 100%; height: 100%; disp=
+lay: flex; flex-direction: column; justify-content: center; overflow: hidde=
+n;"><div style=3D"height: 222px; width: 100%; position: relative;"><canvas =
+class=3D"flot-base" width=3D"878" height=3D"444" style=3D"direction: ltr; p=
+osition: absolute; left: 0px; top: 0px; width: 439px; height: 222px;"></can=
+vas><canvas class=3D"flot-overlay" width=3D"878" height=3D"444" style=3D"di=
+rection: ltr; position: absolute; left: 0px; top: 0px; width: 439px; height=
+: 222px;"></canvas><span id=3D"flotGaugeValue0" class=3D"flot-temp-elem" st=
+yle=3D"position: absolute; top: 140.018px; white-space: nowrap; font-size: =
+53.8721px; font-family: Roboto, Helvetica, Arial, sans-serif; color: rgb(24=
+2, 73, 92); left: 144.488px;">1.39 s</span></div><div style=3D"text-align: =
+center; font-size: 20px; overflow: hidden; text-overflow: ellipsis; white-s=
+pace: nowrap; position: relative; width: 100%; top: -4px; cursor: default;"=
+>scriptEvaluation</div></div></div><div style=3D"position: absolute; left: =
+447px; top: 260px; width: 439px; height: 252px;"><div style=3D"width: 100%;=
+ height: 100%; display: flex; flex-direction: column; justify-content: cent=
+er; overflow: hidden;"><div style=3D"height: 222px; width: 100%; position: =
+relative;"><canvas class=3D"flot-base" width=3D"878" height=3D"444" style=
+=3D"direction: ltr; position: absolute; left: 0px; top: 0px; width: 439px; =
+height: 222px;"></canvas><canvas class=3D"flot-overlay" width=3D"878" heigh=
+t=3D"444" style=3D"direction: ltr; position: absolute; left: 0px; top: 0px;=
+ width: 439px; height: 222px;"></canvas><span id=3D"flotGaugeValue0" class=
+=3D"flot-temp-elem" style=3D"position: absolute; top: 134.16px; white-space=
+: nowrap; font-size: 65.5879px; font-family: Roboto, Helvetica, Arial, sans=
+-serif; color: rgb(115, 191, 105); left: 146.438px;">5 ms</span></div><div =
+style=3D"text-align: center; font-size: 20px; overflow: hidden; text-overfl=
+ow: ellipsis; white-space: nowrap; position: relative; width: 100%; top: -4=
+px; cursor: default;">scriptParseCompile</div></div></div><div style=3D"pos=
+ition: absolute; left: 894px; top: 260px; width: 439px; height: 252px;"><di=
+v style=3D"width: 100%; height: 100%; display: flex; flex-direction: column=
+; justify-content: center; overflow: hidden;"><div style=3D"height: 222px; =
+width: 100%; position: relative;"><canvas class=3D"flot-base" width=3D"878"=
+ height=3D"444" style=3D"direction: ltr; position: absolute; left: 0px; top=
+: 0px; width: 439px; height: 222px;"></canvas><canvas class=3D"flot-overlay=
+" width=3D"878" height=3D"444" style=3D"direction: ltr; position: absolute;=
+ left: 0px; top: 0px; width: 439px; height: 222px;"></canvas><span id=3D"fl=
+otGaugeValue0" class=3D"flot-temp-elem" style=3D"position: absolute; top: 1=
+44.782px; white-space: nowrap; font-size: 44.3428px; font-family: Roboto, H=
+elvetica, Arial, sans-serif; color: rgb(242, 73, 92); left: 144.492px;">686=
+ ms</span></div><div style=3D"text-align: center; font-size: 20px; overflow=
+: hidden; text-overflow: ellipsis; white-space: nowrap; position: relative;=
+ width: 100%; top: -4px; cursor: default;">styleLayout</div></div></div></d=
+iv></div></section></div><span class=3D"react-resizable-handle react-resiza=
+ble-handle-se"></span></div><div class=3D"react-grid-item react-draggable r=
+eact-resizable" data-panelid=3D"138" style=3D"top: 1558px; left: 0px; width=
+: 1351px; height: 524px; position: absolute;"><div id=3D"29" style=3D"width=
+: 1351px; height: 524px;"></div><span class=3D"react-resizable-handle react=
+-resizable-handle-se"></span></div><div class=3D"react-grid-item react-drag=
+gable react-resizable-hide react-resizable" data-panelid=3D"136" style=3D"t=
+op: 2090px; left: 0px; width: 1351px; height: 30px; position: absolute;"><d=
+iv class=3D"dashboard-row dashboard-row--collapsed" data-testid=3D"dashboar=
+d-row-container"><a class=3D"dashboard-row__title pointer" data-testid=3D"d=
+ata-testid dashboard-row-title-Third party"><div class=3D"css-wf08df-Icon">=
+<svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16=
+" height=3D"16" class=3D"css-eyx4do"><path d=3D"M14.83,11.29,10.59,7.05a1,1=
+,0,0,0-1.42,0,1,1,0,0,0,0,1.41L12.71,12,9.17,15.54a1,1,0,0,0,0,1.41,1,1,0,0=
+,0,.71.29,1,1,0,0,0,.71-.29l4.24-4.24A1,1,0,0,0,14.83,11.29Z"></path></svg>=
+</div>Third party<span class=3D"dashboard-row__panel_count">(3 panels)</spa=
+n></a><div class=3D"dashboard-row__actions"><a class=3D"pointer" role=3D"bu=
+tton" aria-label=3D"Row options"><div class=3D"css-wf08df-Icon"><svg xmlns=
+=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=
+=3D"16" class=3D"css-eyx4do"><path d=3D"M21.32,9.55l-1.89-.63.89-1.78A1,1,0=
+,0,0,20.13,6L18,3.87a1,1,0,0,0-1.15-.19l-1.78.89-.63-1.89A1,1,0,0,0,13.5,2h=
+-3a1,1,0,0,0-.95.68L8.92,4.57,7.14,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.=
+19,1.15l.89,1.78-1.89.63A1,1,0,0,0,2,10.5v3a1,1,0,0,0,.68.95l1.89.63-.89,1.=
+78A1,1,0,0,0,3.87,18L6,20.13a1,1,0,0,0,1.15.19l1.78-.89.63,1.89a1,1,0,0,0,.=
+95.68h3a1,1,0,0,0,.95-.68l.63-1.89,1.78.89A1,1,0,0,0,18,20.13L20.13,18a1,1,=
+0,0,0,.19-1.15l-.89-1.78,1.89-.63A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21.32,9.55=
+ZM20,12.78l-1.2.4A2,2,0,0,0,17.64,16l.57,1.14-1.1,1.1L16,17.64a2,2,0,0,0-2.=
+79,1.16l-.4,1.2H11.22l-.4-1.2A2,2,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.36,16A2,=
+2,0,0,0,5.2,13.18L4,12.78V11.22l1.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1.1-1.1L8=
+,6.36A2,2,0,0,0,10.82,5.2l.4-1.2h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,1.1=
+,1.1L17.64,8a2,2,0,0,0,1.16,2.79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm=
+0,6a2,2,0,1,1,2-2A2,2,0,0,1,12,14Z"></path></svg></div></a><a class=3D"poin=
+ter" role=3D"button" aria-label=3D"Delete row"><div class=3D"css-wf08df-Ico=
+n"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D=
+"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M10,18a1,1,0,0,0,1-1V11a=
+1,1,0,0,0-2,0v6A1,1,0,0,0,10,18ZM20,6H16V5a3,3,0,0,0-3-3H11A3,3,0,0,0,8,5V6=
+H4A1,1,0,0,0,4,8H5V19a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V8h1a1,1,0,0,0,0-2ZM10,5=
+a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1V6H10Zm7,14a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V8H1=
+7Zm-3-1a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,14,18Z"></path></svg></d=
+iv></a></div><div class=3D"dashboard-row__toggle-target">&nbsp;</div><div d=
+ata-testid=3D"dashboard-row-drag" class=3D"dashboard-row__drag grid-drag-ha=
+ndle"></div></div><span class=3D"react-resizable-handle react-resizable-han=
+dle-se"></span></div><div class=3D"react-grid-item react-draggable react-re=
+sizable-hide react-resizable" data-panelid=3D"140" style=3D"top: 2128px; le=
+ft: 0px; width: 1351px; height: 30px; position: absolute;"><div class=3D"da=
+shboard-row dashboard-row--collapsed" data-testid=3D"dashboard-row-containe=
+r"><a class=3D"dashboard-row__title pointer" data-testid=3D"data-testid das=
+hboard-row-title-JavaScript heap [Chrome only]"><div class=3D"css-wf08df-Ic=
+on"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=
+=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M14.83,11.29,10.59,7.=
+05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.41L12.71,12,9.17,15.54a1,1,0,0,0,0,1.41,1=
+,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4.24-4.24A1,1,0,0,0,14.83,11.29Z"></path>=
+</svg></div>JavaScript heap [Chrome only]<span class=3D"dashboard-row__pane=
+l_count">(1 panel)</span></a><div class=3D"dashboard-row__actions"><a class=
 =3D"pointer" role=3D"button" aria-label=3D"Row options"><div class=3D"css-w=
 f08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24"=
  width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M21.32,9.55l-1.=
@@ -1350,20 +1369,100 @@ H8a1,1,0,0,1-1-1V8H17Zm-3-1a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,14,1=
 8Z"></path></svg></div></a></div><div class=3D"dashboard-row__toggle-target=
 ">&nbsp;</div><div data-testid=3D"dashboard-row-drag" class=3D"dashboard-ro=
 w__drag grid-drag-handle"></div></div><span class=3D"react-resizable-handle=
- react-resizable-handle-se"></span></div></div></div></div><div class=3D"re=
-size-triggers"><div class=3D"expand-trigger"><div style=3D"width: 1352px; h=
-eight: 1133px;"></div></div><div class=3D"contract-trigger"></div></div></d=
-iv></div></div><div class=3D"track-horizontal" style=3D"position: absolute;=
- height: 6px; display: none;"><div class=3D"thumb-horizontal" style=3D"posi=
-tion: relative; display: block; height: 100%;"></div></div><div class=3D"tr=
-ack-vertical" style=3D"position: absolute; width: 6px; display: none;"><div=
- class=3D"thumb-vertical" style=3D"position: relative; display: block; widt=
-h: 100%;"></div></div></div></div></div> </main></div><div id=3D"grafana-po=
-rtal-container"></div></div></body></html>
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+ react-resizable-handle-se"></span></div><div class=3D"react-grid-item reac=
+t-draggable react-resizable-hide react-resizable" data-panelid=3D"176" styl=
+e=3D"top: 2166px; left: 0px; width: 1351px; height: 30px; position: absolut=
+e;"><div class=3D"dashboard-row dashboard-row--collapsed" data-testid=3D"da=
+shboard-row-container"><a class=3D"dashboard-row__title pointer" data-testi=
+d=3D"data-testid dashboard-row-title-Response codes"><div class=3D"css-wf08=
+df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" wi=
+dth=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M14.83,11.29,10.59=
+,7.05a1,1,0,0,0-1.42,0,1,1,0,0,0,0,1.41L12.71,12,9.17,15.54a1,1,0,0,0,0,1.4=
+1,1,1,0,0,0,.71.29,1,1,0,0,0,.71-.29l4.24-4.24A1,1,0,0,0,14.83,11.29Z"></pa=
+th></svg></div>Response codes<span class=3D"dashboard-row__panel_count">(1 =
+panel)</span></a><div class=3D"dashboard-row__actions"><a class=3D"pointer"=
+ role=3D"button" aria-label=3D"Row options"><div class=3D"css-wf08df-Icon">=
+<svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16=
+" height=3D"16" class=3D"css-eyx4do"><path d=3D"M21.32,9.55l-1.89-.63.89-1.=
+78A1,1,0,0,0,20.13,6L18,3.87a1,1,0,0,0-1.15-.19l-1.78.89-.63-1.89A1,1,0,0,0=
+,13.5,2h-3a1,1,0,0,0-.95.68L8.92,4.57,7.14,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1=
+,0,0,0-.19,1.15l.89,1.78-1.89.63A1,1,0,0,0,2,10.5v3a1,1,0,0,0,.68.95l1.89.6=
+3-.89,1.78A1,1,0,0,0,3.87,18L6,20.13a1,1,0,0,0,1.15.19l1.78-.89.63,1.89a1,1=
+,0,0,0,.95.68h3a1,1,0,0,0,.95-.68l.63-1.89,1.78.89A1,1,0,0,0,18,20.13L20.13=
+,18a1,1,0,0,0,.19-1.15l-.89-1.78,1.89-.63A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21=
+.32,9.55ZM20,12.78l-1.2.4A2,2,0,0,0,17.64,16l.57,1.14-1.1,1.1L16,17.64a2,2,=
+0,0,0-2.79,1.16l-.4,1.2H11.22l-.4-1.2A2,2,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.=
+36,16A2,2,0,0,0,5.2,13.18L4,12.78V11.22l1.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1=
+.1-1.1L8,6.36A2,2,0,0,0,10.82,5.2l.4-1.2h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14=
+-.57,1.1,1.1L17.64,8a2,2,0,0,0,1.16,2.79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,=
+0,12,8Zm0,6a2,2,0,1,1,2-2A2,2,0,0,1,12,14Z"></path></svg></div></a><a class=
+=3D"pointer" role=3D"button" aria-label=3D"Delete row"><div class=3D"css-wf=
+08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" =
+width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M10,18a1,1,0,0,0=
+,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,10,18ZM20,6H16V5a3,3,0,0,0-3-3H11A3,3,0,0=
+,0,8,5V6H4A1,1,0,0,0,4,8H5V19a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V8h1a1,1,0,0,0,0=
+-2ZM10,5a1,1,0,0,1,1-1h2a1,1,0,0,1,1,1V6H10Zm7,14a1,1,0,0,1-1,1H8a1,1,0,0,1=
+-1-1V8H17Zm-3-1a1,1,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,14,18Z"></path><=
+/svg></div></a></div><div class=3D"dashboard-row__toggle-target">&nbsp;</di=
+v><div data-testid=3D"dashboard-row-drag" class=3D"dashboard-row__drag grid=
+-drag-handle"></div></div><span class=3D"react-resizable-handle react-resiz=
+able-handle-se"></span></div><div class=3D"react-grid-item react-resizable-=
+hide react-resizable" data-panelid=3D"172" style=3D"top: 2204px; left: 0px;=
+ width: 1351px; height: 30px; position: absolute;"><div class=3D"dashboard-=
+row" data-testid=3D"dashboard-row-container"><a class=3D"dashboard-row__tit=
+le pointer" data-testid=3D"data-testid dashboard-row-title-Errors"><div cla=
+ss=3D"css-wf08df-Icon"><svg xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D=
+"0 0 24 24" width=3D"16" height=3D"16" class=3D"css-eyx4do"><path d=3D"M17,=
+9.17a1,1,0,0,0-1.41,0L12,12.71,8.46,9.17a1,1,0,0,0-1.41,0,1,1,0,0,0,0,1.42l=
+4.24,4.24a1,1,0,0,0,1.42,0L17,10.59A1,1,0,0,0,17,9.17Z"></path></svg></div>=
+Errors<span class=3D"dashboard-row__panel_count">(0 panels)</span></a><div =
+class=3D"dashboard-row__actions"><a class=3D"pointer" role=3D"button" aria-=
+label=3D"Row options"><div class=3D"css-wf08df-Icon"><svg xmlns=3D"http://w=
+ww.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=3D"16" class=
+=3D"css-eyx4do"><path d=3D"M21.32,9.55l-1.89-.63.89-1.78A1,1,0,0,0,20.13,6L=
+18,3.87a1,1,0,0,0-1.15-.19l-1.78.89-.63-1.89A1,1,0,0,0,13.5,2h-3a1,1,0,0,0-=
+.95.68L8.92,4.57,7.14,3.68A1,1,0,0,0,6,3.87L3.87,6a1,1,0,0,0-.19,1.15l.89,1=
+.78-1.89.63A1,1,0,0,0,2,10.5v3a1,1,0,0,0,.68.95l1.89.63-.89,1.78A1,1,0,0,0,=
+3.87,18L6,20.13a1,1,0,0,0,1.15.19l1.78-.89.63,1.89a1,1,0,0,0,.95.68h3a1,1,0=
+,0,0,.95-.68l.63-1.89,1.78.89A1,1,0,0,0,18,20.13L20.13,18a1,1,0,0,0,.19-1.1=
+5l-.89-1.78,1.89-.63A1,1,0,0,0,22,13.5v-3A1,1,0,0,0,21.32,9.55ZM20,12.78l-1=
+.2.4A2,2,0,0,0,17.64,16l.57,1.14-1.1,1.1L16,17.64a2,2,0,0,0-2.79,1.16l-.4,1=
+.2H11.22l-.4-1.2A2,2,0,0,0,8,17.64l-1.14.57-1.1-1.1L6.36,16A2,2,0,0,0,5.2,1=
+3.18L4,12.78V11.22l1.2-.4A2,2,0,0,0,6.36,8L5.79,6.89l1.1-1.1L8,6.36A2,2,0,0=
+,0,10.82,5.2l.4-1.2h1.56l.4,1.2A2,2,0,0,0,16,6.36l1.14-.57,1.1,1.1L17.64,8a=
+2,2,0,0,0,1.16,2.79l1.2.4ZM12,8a4,4,0,1,0,4,4A4,4,0,0,0,12,8Zm0,6a2,2,0,1,1=
+,2-2A2,2,0,0,1,12,14Z"></path></svg></div></a><a class=3D"pointer" role=3D"=
+button" aria-label=3D"Delete row"><div class=3D"css-wf08df-Icon"><svg xmlns=
+=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 24 24" width=3D"16" height=
+=3D"16" class=3D"css-eyx4do"><path d=3D"M10,18a1,1,0,0,0,1-1V11a1,1,0,0,0-2=
+,0v6A1,1,0,0,0,10,18ZM20,6H16V5a3,3,0,0,0-3-3H11A3,3,0,0,0,8,5V6H4A1,1,0,0,=
+0,4,8H5V19a3,3,0,0,0,3,3h8a3,3,0,0,0,3-3V8h1a1,1,0,0,0,0-2ZM10,5a1,1,0,0,1,=
+1-1h2a1,1,0,0,1,1,1V6H10Zm7,14a1,1,0,0,1-1,1H8a1,1,0,0,1-1-1V8H17Zm-3-1a1,1=
+,0,0,0,1-1V11a1,1,0,0,0-2,0v6A1,1,0,0,0,14,18Z"></path></svg></div></a></di=
+v><div data-testid=3D"dashboard-row-drag" class=3D"dashboard-row__drag grid=
+-drag-handle"></div></div><span class=3D"react-resizable-handle react-resiz=
+able-handle-se"></span></div><div class=3D"react-grid-item react-draggable =
+react-resizable" data-panelid=3D"111" style=3D"top: 2242px; left: 0px; widt=
+h: 672px; height: 258px; position: absolute;"><div id=3D"30" style=3D"width=
+: 672px; height: 258px;"></div><span class=3D"react-resizable-handle react-=
+resizable-handle-se"></span></div><div class=3D"react-grid-item react-dragg=
+able react-resizable" data-panelid=3D"174" style=3D"top: 2242px; left: 680p=
+x; width: 672px; height: 258px; position: absolute;"><div id=3D"31" style=
+=3D"width: 672px; height: 258px;"></div><span class=3D"react-resizable-hand=
+le react-resizable-handle-se"></span></div></div></div></div><div class=3D"=
+resize-triggers"><div class=3D"expand-trigger"><div style=3D"width: 1352px;=
+ height: 2501px;"></div></div><div class=3D"contract-trigger"></div></div><=
+/div></div></div><div class=3D"track-horizontal" style=3D"position: absolut=
+e; height: 6px; display: none;"><div class=3D"thumb-horizontal" style=3D"po=
+sition: relative; display: block; height: 100%;"></div></div><div class=3D"=
+track-vertical" style=3D"position: absolute; width: 6px; display: none;"><d=
+iv class=3D"thumb-vertical" style=3D"position: relative; display: block; wi=
+dth: 100%;"></div></div></div></div></div> </main></div><div id=3D"grafana-=
+portal-container"></div></div></body></html>
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-b34b6fee-f656-4987-8a16-0e1cd5c93843@mhtml.blink
+Content-Location: cid:css-d8d9f652-a06c-4360-b0a7-91cbafc2c10a@mhtml.blink
 
 @charset "utf-8";
 
@@ -1375,10 +1474,10 @@ ng\:form { display: block; }
 .ng-animate-shim { visibility: hidden; }
 
 .ng-anchor { position: absolute; }
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-92cc9f7b-a867-448e-824e-84554eda3aca@mhtml.blink
+Content-Location: cid:css-9524318e-5af6-47be-851c-3ff86abf9035@mhtml.blink
 
 @charset "utf-8";
 
@@ -2513,10 +2612,70 @@ adding-right: 0px !important; }
 .css-1s08hr2 [data-placement^=3D"left"] { padding-top: 0px !important; }
 
 .css-1s08hr2 [data-placement^=3D"right"] { padding-top: 0px !important; }
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+
+.css-44tdxe { padding-right: 10px; display: flex; font-size: 12px; white-sp=
+ace: nowrap; }
+
+.css-1sae11f { margin-bottom: 4px; }
+
+.css-hqjr7v { padding-right: 10px; display: flex; font-size: 12px; white-sp=
+ace: nowrap; margin-bottom: 4px; }
+
+.css-5383lb { padding-left: 8px; }
+
+.css-dee1l1 { display: flex; flex-wrap: wrap; -webkit-box-pack: justify; ju=
+stify-content: space-between; width: 100%; padding-left: 16px; }
+
+.css-vyoujf { display: flex; }
+
+.css-os233q { -webkit-box-pack: end; justify-content: flex-end; -webkit-box=
+-flex: 1; flex-grow: 1; }
+
+.css-1ers8rm { display: flex; -webkit-box-pack: end; justify-content: flex-=
+end; -webkit-box-flex: 1; flex-grow: 1; }
+
+.css-1ld8h5b { list-style-type: none; margin: 0px; padding: 0px; }
+
+.css-b0z14z { display: inline-block; }
+
+.css-d919k1-LegendLabel { white-space: nowrap; }
+
+.css-4bynir-LegendClickabel { cursor: pointer; }
+
+.css-s0uooj-LegendLabelDisabled { color: rgba(204, 204, 220, 0.6); }
+
+.css-1k9ng5-LegendItemWrapper { display: flex; white-space: nowrap; -webkit=
+-box-align: center; align-items: center; -webkit-box-flex: 1; flex-grow: 1;=
+ }
+
+.css-1fuc94h { text-align: right; }
+
+.css-jx6f60 { color: rgb(142, 142, 142); }
+
+.css-1ns0gep-LegendLabel-LegendClickabel { white-space: nowrap; cursor: poi=
+nter; }
+
+.css-1gjw51f { -webkit-box-flex: 1; flex-grow: 1; text-align: right; }
+
+.css-5r6t3y { margin-left: 8px; }
+
+.css-o2xpn9 { list-style-type: none; margin: 0px; padding: 0px; -webkit-box=
+-flex: 1; flex-grow: 1; text-align: right; }
+
+.css-7r56o0 { position: absolute; overflow: visible; left: 4px; top: 0px; }
+
+.css-1unzkt { position: absolute; overflow: visible; left: 23px; top: 8px; =
+}
+
+.css-1c3gfm2 { position: absolute; overflow: visible; left: 16px; top: 8px;=
+ }
+
+.css-17x9l7p { position: absolute; overflow: visible; left: 49px; top: 8px;=
+ }
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-405d28d0-f0e1-40d2-a480-b11d7119ebbf@mhtml.blink
+Content-Location: cid:css-6065c7f5-2d76-4387-a1b6-bdaf3c0c33d5@mhtml.blink
 
 @charset "utf-8";
 
@@ -2553,10 +2712,10 @@ Content-Location: cid:css-405d28d0-f0e1-40d2-a480-b11d7119ebbf@mhtml.blink
 .css-beipwn { color: rgb(170, 170, 170); }
 
 .css-1yhz3r0 { -webkit-box-pack: end; justify-content: flex-end; }
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-5082479e-95c5-432c-847f-86391d8deea7@mhtml.blink
+Content-Location: cid:css-61525e77-0eff-449d-b380-438ab0e68d52@mhtml.blink
 
 @charset "utf-8";
 
@@ -2805,10 +2964,10 @@ ointer; font-weight: 500; color: rgb(204, 204, 220); }
 .panel-options-group__title { position: relative; }
 
 .panel-options-group__body { padding: 8px 16px 8px 32px; }
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-0354be91-f629-4f06-be61-7b07f5d33510@mhtml.blink
+Content-Location: cid:css-48cb8c9c-b7ae-4b68-a41e-81a14ea8a257@mhtml.blink
 
 @charset "utf-8";
 
@@ -2827,10 +2986,10 @@ nt: " "; display: block; position: absolute; top: 0px; left: 0px; height: 1=
 .resize-triggers > div { background: rgb(238, 238, 238); overflow: auto; }
 
 .contract-trigger::before { width: 200%; height: 200%; }
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-bf8b04cd-60a1-47db-9cb6-c5f66d4b7c37@mhtml.blink
+Content-Location: cid:css-0015560b-4f8f-4f78-af64-1834f1741e9e@mhtml.blink
 
 @charset "utf-8";
 
@@ -2893,7 +3052,7 @@ lay: none; font-size: 15px; color: rgb(255, 87, 5) !important; }
 .preloader--done .preloader__text--fail { display: block; }
 
 [ng\:cloak], [ng-cloak], .ng-cloak { display: none !important; }
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://127.0.0.1:3000/public/img/grafana_icon.svg
@@ -3002,7 +3161,7 @@ c11.1,2.1,21.5,5.6,31,10.3
 	c0.3,1.4,1.6,2.3,3,2.1c1.5-0.1,2.6-1.3,2.6-2.8C342.6,170.4,342.5,166.1,342=
 ,161.2z"/>
 </svg>=0A
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://127.0.0.1:3000/public/build/grafana.dark.6c90b8800e5171d28a90.css
@@ -10660,7 +10819,7 @@ iosk .submenu-controls, .view-mode--tv .submenu-controls { display: none; }
   nav.page-toolbar { padding-left: 53px; }
   nav.page-toolbar--fullscreen { padding-left: 16px; }
 }
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
 Content-Location: http://127.0.0.1:3000/public/img/grab_dark.svg
@@ -10683,7 +10842,7 @@ tp://www.w3.org/1999/xlink" width=3D"12" height=3D"32" viewBox=3D"0 0 12 32=
 <path d=3D"M8 18h4v4h-4v-4z" fill=3D"#414141"></path>
 <path d=3D"M8 26h4v4h-4v-4z" fill=3D"#414141"></path>
 </svg>=0A
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K----
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS----
 Content-Type: image/jpeg
 Content-Transfer-Encoding: base64
 Content-Location: http://127.0.0.1:3000/avatar/ab5a6a090b5651afdf9ce92dcc586e3c
@@ -10702,4 +10861,4 @@ CWGREBYJYZEQFglhkRAWCWGREBYJYZEQFglhkRAWCWGREBYJYZEQFglhkRAWCWGRGNfbmH2HU83a
 JIRFQlgkhEVCWCSERUJYJIRFQlgkhEVCWCSERUJYJIRFQlgkhEVCWCSERUJYJIRF4hdcthl9Vv4V
 4QAAAABJRU5ErkJggg==
 
-------MultipartBoundary--dndWLdB33vnKeDs579SrvnOfVo1LKTa73QzoSod87K------
+------MultipartBoundary--8SoID96K3cDy2mVBxORDg8zpWh8CDFDQJNo8vcKPNS------
